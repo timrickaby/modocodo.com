@@ -2,7 +2,7 @@
 		© 2021<br />
 		<a href="mailto:hello@modocodo.studio" class="faded">hello@modocodo.studio</a>
 		<br /><br />
-		<span class="registration">Modocodo Ltd. Registered in England & Wales 13703897</span>
+		<span class="registration">Modocodo Ltd. Registered Company: 13703897</span>
 	</div>
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->

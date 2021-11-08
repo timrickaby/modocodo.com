@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 	<html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>modocodo – design and development studio.</title>	
+		<title>Modocodo — Design, Code and Words.</title>	
 		
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
 		<meta name="robots" content="noarchive"> 
@@ -24,7 +24,7 @@
 		<link rel="canonical" href="http://modocodo.test/" />		
 		<link rel="preconnect" href="https://fonts.googleapis.com"> 
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap" rel="stylesheet">		
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap" rel="stylesheet">	
 		<link rel='dns-prefetch' href='//s.w.org' />
 		<link rel='stylesheet' id='style-css'  href='http://modocodo.test/style.css' type='text/css' media='all' />
 		<link rel="start" href="http://modocodo.test">
@@ -43,6 +43,7 @@
 	<body>
 		<div id="page" class="row <?php echo $location; ?>">
 			<div id="identity" class="row">
+				<?php /* <h1>Modocodo</h1> */ ?>
 				<a href="http://modocodo.test"><img src="http://modocodo.test/assets/modocodo-logomark-bold.jpg"></a>
 			</div>
 
