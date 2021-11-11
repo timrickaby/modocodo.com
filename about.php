@@ -3,11 +3,23 @@
 
 	<div id="about" class="row">
 		<div id="profile" class="row">
-			<p><strong>Modocodo</strong> is the creative design and development studio of <a href="https://timrickaby.com" target="_blank">Tim Rickaby</a>, Yorkshire based multi-disciplinery designer, coder and copywriter.</p>
+			<p>Modocodo is the creative design and development studio of <a href="https://timrickaby.com" target="_blank">Tim Rickaby</a>, Yorkshire based multi-disciplinery designer, coder and writer.</p>
 			
-			<p>Working with exciting global brands like Adidas, Reebok, Virgin and Sky plus many wonderful small businesses, startups, charities, artists and musicians.</p>
+			<p>Working with exciting global brands like Adidas, Reebok, Virgin and Sky plus many wonderful businesses, startups, charities, artists and musicians.</p>
 
-			<p>Available for remote freelance work.</p>
+			<br /><br />
+
+			<p class="light">Studio services:</p>
+
+			<p>Creative direction<br />
+			Brand identity and strategy<br />
+			Product naming, branding<br />
+			Retail design<br />
+			Creative concepts<br />
+			UI and UX design<br />
+			Creative digital design<br />
+			Shortform copywriting.<br />
+			Product photography direction</p>
 			
 			<br /><br />
 			

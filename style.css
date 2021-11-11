@@ -89,12 +89,13 @@ body {
 	a.faded::before { background-color: #878787 !important;}
 
 	p {
-		margin: 0 0 30px 0;
+		margin: 0 0 40px 0;
 		padding: 0;
 		word-wrap: break-word;
 	}
 	p img { margin: 0; padding: 0; }
 	p:last-child { margin-bottom: 0; }
+	p.light { color: #878787 }
 
 	ul.list { list-style-type: none; list-style-position: outside; }
 	ul.list li { margin-bottom: 20px; border-left: 0.5px solid #000000; padding-left: 20px }
@@ -130,9 +131,9 @@ body {
 
 #identity { margin-bottom: 80px; }
 #identity h1 { text-align: center !important; font-size: 1.6em; font-weight: 300; letter-spacing: 3px; }
-#identity img { display: block; margin: auto; width: 160px; height: 160px; }
+#identity img { display: block; margin: auto; width: 180px; height: 180px; }
 
-#navigation { margin-bottom: 30px; }
+#navigation { margin-bottom: 20px; }
 #navigation ul { list-style-type: none; text-align: center !important; }
 #navigation ul li { display: inline-block; margin: 0 40px 0 40px; border-bottom: none; }
 #navigation ul li a { color: #878787; }
@@ -160,7 +161,7 @@ body {
 	box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
 }
 
-#footer { padding: 120px 0 40px 0; text-align: center; color: #878787; font-size: 0.8em; }
+#footer { padding: 100px 0 40px 0; text-align: center; color: #878787; font-size: 0.8em; }
 #footer a { color: #878787; }
 #footer span.registration { font-size: 0.8em; color: #878787; }
 
