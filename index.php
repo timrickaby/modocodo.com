@@ -1,5 +1,5 @@
 <?php global $location; $location = 'home'; ?>
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php'); ?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'] . '/header.php'); ?>
 
 	<div id="work" class="row">
 				
@@ -71,7 +71,7 @@
 			<div class="row">
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-09.jpg" width="100%" />
+						<img src="http://modocodo.test/work/adidas-pod-11.jpg" width="100%" />
 					</div>
 				</div>
 				<div class="column-1-3">
@@ -81,7 +81,7 @@
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-11.jpg" width="100%" />
+						<img src="http://modocodo.test/work/adidas-pod-09.jpg" width="100%" />
 					</div>
 				</div>
 			</div>
