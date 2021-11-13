@@ -63,11 +63,11 @@
 		</div>
 
 
+
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Adidas P.O.D System Retail Launch</h2>
-				<h3>Retail and point of sale. Concepts, design and production guidelines.</h3>
-				<h4>(IMA / Adidas)</h4>
+				<h2>Adidas (IMA)</h2>
+				<h3>Adidas P.O.D System<br />Retail windows, instore activations and point of sale. Concepts, design and production guidelines.</h3>
 			</div>
 			
 			<div class="item" data-type="image">
@@ -91,7 +91,6 @@
 					</div>
 				</div>
 			</div>
-
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
@@ -128,55 +127,23 @@
 					</div>
 				</div>
 			</div>
-		</div>
 
-
-		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Haworth Festival</h2>
-				<h3>Brand identity, print design and website.<br />
-				Inspired by the well-worn cobbles and contemporary culture.</h3>
-			</div>
-			<div class="row">
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/haworth-festival-logo-01.jpg" width="100%" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/haworth-festival-logo-02.jpg" width="100%" />
-					</div>
-				</div>
-			</div>
-			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/haworth-festival-posters.jpg" width="100%" />
-			</div>
-			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/haworth-festival-collateral.jpg" width="100%" />
-			</div>
-		</div>
-		
-
-		<div class="project">
-			<div class="item" data-type="copy">
-				<h2>Adidas Originals – Nite Jogger VR Experience</h2>
-				<h3>Concept and design of worldwide in-store product launch activation.</h3>
-				<h4>(IMA)</h4>
+				<h3><br /><br /><br />Adidas Nite Jogger<br />VR experience concept and design of worldwide in-store product launch activation.</h3>
 			</div>
 			<div class="item" data-type="image">
 				<img src="http://modocodo.test/work/adidas-nite-jogger-vr-flat-render.jpg" width="100%" />
-				<div class="caption">
+				<?php /*<div class="caption">
 					<p>Flat visual of the 3D environment.</p>
-				</div>
+				</div>*/ ?>
 			</div>
 			<div class="item" data-type="embed">
 				<div class="media-wrapper">
 					<iframe src="https://player.vimeo.com/video/330599851" frameborder="0" allowfullscreen></iframe>
 				</div>
-				<div class="caption">
+				<?php /*<div class="caption">
 					<p>3D environment produced for Occulus Rift headsets.</p>
-				</div>
+				</div>*/ ?>
 			</div>
 			<?php /*
 			<div class="row">
@@ -197,14 +164,43 @@
 				</div>
 			</div>
 			*/ ?>
+
+			<div class="item" data-type="copy">
+				<h3><br /><br /><br />Adidas Athletics<br />'Find Focus' creative guidelines for windows, point of sale and digital screens.</h3>
+			</div>
+			<div class="row">
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/adidas-athletics-install-01.jpg" width="100%" />
+					</div>
+				</div>
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/adidas-athletics-install-03.jpg" width="100%" />
+					</div>
+				</div>
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/adidas-athletics-install-04.jpg" width="100%" />
+					</div>
+				</div>
+			</div>
+			<div class="item" data-type="embed">
+				<div class="media-wrapper">
+					<iframe src="https://player.vimeo.com/video/202110711" frameborder="0" allowfullscreen></iframe>
+				</div>
+				<div class="caption">
+					<p>Behind the scenes pf creative installs at Foot Locker, Harrods and WIT.</p>
+				</div>
+			</div>
 		</div>
 
+		
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Foot Locker</h2>
-				<h3>Photography concepts, direction and retouching for Foot Locker's 1.5m Instagram followers.</h3>
-				<h4>(IMA)</h4>
+				<h2>Foot Locker (IMA)</h2>
+				<h3>Photography concepts, direction and retouching for Foot Locker's social channels.</h3>
 			</div>
 			<div class="row">
 				<div class="column-1-3">
@@ -260,45 +256,33 @@
 		</div>
 
 
+
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Adidas Athletics</h2>
-				<h3>'Find Focus' product launch campaign involved window and in store execution.</h3>
-				<h4>(IMA / Adidas / JD Sports)</h4>
+				<h2>Haworth Festival</h2>
+				<h3>Brand identity, print design and website.<br />
+				Inspired by the well-worn cobbles and contemporary culture.</h3>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-athletics-install-01.jpg" width="100%" />
+						<img src="http://modocodo.test/work/haworth-festival-logo-01.jpg" width="100%" />
 					</div>
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-athletics-install-02.jpg" width="100%" />
+						<img src="http://modocodo.test/work/haworth-festival-logo-02.jpg" width="100%" />
 					</div>
 				</div>
 			</div>
-			<div class="row">
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-athletics-install-03.jpg" width="100%" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-athletics-install-04.jpg" width="100%" />
-					</div>
-				</div>
+			<div class="item" data-type="image">
+				<img src="http://modocodo.test/work/haworth-festival-posters.jpg" width="100%" />
 			</div>
-			<div class="item" data-type="embed">
-				<div class="media-wrapper">
-					<iframe src="https://player.vimeo.com/video/202110711" frameborder="0" allowfullscreen></iframe>
-				</div>
-				<div class="caption">
-					<p>Foot Locker, Harrods and WIT Launch behind the scenes.</p>
-				</div>
+			<div class="item" data-type="image">
+				<img src="http://modocodo.test/work/haworth-festival-collateral.jpg" width="100%" />
 			</div>
 		</div>
+
 
 
 		<div class="project">
@@ -329,6 +313,7 @@
 		</div>
 		
 
+
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Awesome Exporter for Adobe InDesign</h2>
@@ -342,6 +327,7 @@
 				<img src="http://modocodo.test/work/awesome-exporter-ui-01.jpg" width="100%" />
 			</div>
 		</div>
+
 
 
 		<div class="project">
@@ -367,10 +353,10 @@
 		</div>
 
 
-		<?php /*
+		
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Musicins Centre</h2>
+				<h2>Sky</h2>
 				<h3>Web design and brand identity for PGA professional golfer.</h3>
 			</div>
 			<div class="row">
@@ -392,7 +378,7 @@
 				<img src="http://modocodo.test/work/musicians-centre-pattern.jpg" width="100%" />
 			</div>
 		</div>
-		*/ ?>
+
 
 
 		<div class="project">
@@ -419,34 +405,13 @@
 			<img src="http://modocodo.test/work/kenmuir-arms-business-cards.jpg" width="100%" />
 			</div>
 		</div>
+
 		
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Hayim Apparel</h2>
-				<h3>Brand identity.</h3>
-			</div>
-			<div class="row">
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/hayim-logo-01.jpg" width="100%" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/hayim-logo-02.jpg" width="100%" />
-					</div>
-				</div>
-			</div>
-			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/hayim-tags.jpg" width="100%" />
-			</div>
-		</div>
-
-
-		<div class="project">
-			<div class="item" data-type="copy">
-				<h2>Logos et cetera.</h2>
+				<h2>Et cetera.</h2>
+				<h3>Editorial, layout and brand identity.</h3>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
@@ -459,9 +424,9 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/logos-kerrys-cakes.jpg" width="100%" />
+						<img src="http://modocodo.test/work/logos-hayim.jpg" width="100%" />
 						<div class="caption">
-							<p>Kerry's Cakes</p>
+							<p>HAYIM Apparel</p>
 						</div>
 					</div>
 				</div>
@@ -504,5 +469,6 @@
 			</div>
 		</div>
 	</div>
+
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php'); ?>
