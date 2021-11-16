@@ -162,8 +162,8 @@ body {
 
 #footer { padding: 100px 0 40px 0; text-align: center; color: #878787; }
 #footer a { color: #878787; }
-#footer span.date { color: #878787;  font-size: 0.8em; line-height: 1.5em; }
-#footer span.registration { color: #878787; font-size: 0.6em; line-height: 1.5em; }
+#footer span.date { color: #878787;  font-size: 0.8em; line-height: 1.4em; }
+#footer span.registration { color: #878787; font-size: 0.6em; line-height: 1.6em; }
 
 
 /* Items */
