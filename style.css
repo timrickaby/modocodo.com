@@ -63,7 +63,7 @@ body {
 	font-family: 'Inter', sans-serif !important;
 	font-weight: 300;
 	font-size: 18x;
-	line-height: 26px;
+	line-height: 24px;
 	color: #000000;
 	word-wrap: break-word;
 	text-rendering: optimizeLegibility;
@@ -170,7 +170,7 @@ body {
 .project { display: block; margin-top: 120px; margin-bottom: 200px; } 
 .project:last-child { margin-bottom: 0; } 
 
-.item { display: block; margin-bottom: 10px; } 
+.item { display: block; margin-bottom: 9px; } 
 
 .item .caption { margin-top: 4px; margin-bottom: 30px; width: 100%; }
 .item .caption p { font-size: 0.8em;  text-align: center; display: block; color: #878787; }
@@ -188,7 +188,7 @@ body {
 
 /* Item Type: foliola-type-modocodo-copy */
 .item[data-type="copy"] { margin-bottom: 30px; text-align: center; padding: 0 120px 0 120px; }
-.item[data-type="copy"] h2 { padding-bottom: 6px; font-weight: 300;}
+.item[data-type="copy"] h2 { padding-bottom: 12px; font-weight: 300;}
 .item[data-type="copy"] h3 { color: #878787; }
 .item[data-type="copy"] h4 { color: #878787; font-size: 0.8em; margin-top: 8px }
 

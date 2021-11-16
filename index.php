@@ -6,7 +6,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Healey Amplification</h2>
-				<h3>Interactive brand identity. Logoforms are brought to live using raw audio data from the companies valve amplifiers to
+				<h3>Interactive brand identity. Logoforms are brought to life using raw audio data from the companies flagship valve amplifiers to
 				create immersive static and dynamic brand assets.</h3>
 			</div>
 			<div class="item" data-type="image">
@@ -37,9 +37,9 @@
 				</div>
 			</div>
 			<div class="item" data-type="media">
-				<img src="http://modocodo.test/work/healey-amplification-posters.jpg" width="100%" />
+				<img src="http://modocodo.test/work/healey-amplification-brand-book.jpg" width="100%" />
 				<div class="caption">
-					<p>Launch event posters.</p>
+					<p>Brand book.</p>
 				</div>
 			</div>
 			<div class="row">
@@ -55,7 +55,7 @@
 					<div class="item" data-type="media">
 						<img src="http://modocodo.test/work/healey-amplification-cards.jpg" width="100%" />
 						<div class="caption">
-							<p>Customers were able to produce custom logoforms when testing the amplifier.</p>
+							<p>Launch event activation. Bespoke customer takeaways.</p>
 						</div>
 					</div>
 				</div>
@@ -67,7 +67,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Adidas (IMA)</h2>
-				<h3>Adidas P.O.D System<br />Retail windows, instore activations and point of sale. Concepts, design and production guidelines.</h3>
+				<h3>P.O.D System<br />Concepts, design and production guidelines for retail windows, instore activations and point of sale.</h3>
 			</div>
 			
 			<div class="item" data-type="image">
@@ -129,7 +129,7 @@
 			</div>
 
 			<div class="item" data-type="copy">
-				<h3><br /><br /><br />Adidas Nite Jogger<br />VR experience concept and design of worldwide in-store product launch activation.</h3>
+				<h3><br /><br /><br />Nite Jogger<br />VR experience concept and design of worldwide in-store product launch activation.</h3>
 			</div>
 			<div class="item" data-type="image">
 				<img src="http://modocodo.test/work/adidas-nite-jogger-vr-flat-render.jpg" width="100%" />
@@ -166,7 +166,7 @@
 			*/ ?>
 
 			<div class="item" data-type="copy">
-				<h3><br /><br /><br />Adidas Athletics<br />'Find Focus' creative guidelines for windows, point of sale and digital screens.</h3>
+				<h3><br /><br /><br />Athletics 'Find Focus'<br />Creative guidelines for windows, point of sale and digital screens.</h3>
 			</div>
 			<div class="row">
 				<div class="column-1-3">
@@ -259,34 +259,6 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Haworth Festival</h2>
-				<h3>Brand identity, print design and website.<br />
-				Inspired by the well-worn cobbles and contemporary culture.</h3>
-			</div>
-			<div class="row">
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/haworth-festival-logo-01.jpg" width="100%" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/haworth-festival-logo-02.jpg" width="100%" />
-					</div>
-				</div>
-			</div>
-			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/haworth-festival-posters.jpg" width="100%" />
-			</div>
-			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/haworth-festival-collateral.jpg" width="100%" />
-			</div>
-		</div>
-
-
-
-		<div class="project">
-			<div class="item" data-type="copy">
 				<h2>Joe Tilston</h2>
 				<h3>Album art concept, design and production plus stop frame music video for 'Liza and Henry', the first single from Joe's debut album.</h3>
 			</div>
@@ -353,29 +325,30 @@
 		</div>
 
 
-		
+
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Sky</h2>
-				<h3>Web design and brand identity for PGA professional golfer.</h3>
+				<h2>Haworth Festival</h2>
+				<h3>Brand identity, print design and website.<br />
+				Inspired by the well-worn cobbles and contemporary culture.</h3>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/musicians-centre-logo-01.jpg" width="100%" />
+						<img src="http://modocodo.test/work/haworth-festival-logo-01.jpg" width="100%" />
 					</div>
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/musicians-centre-logo-02.jpg" width="100%" />
+						<img src="http://modocodo.test/work/haworth-festival-logo-02.jpg" width="100%" />
 					</div>
 				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/musicians-centre-posters.jpg" width="100%" />
+				<img src="http://modocodo.test/work/haworth-festival-posters.jpg" width="100%" />
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/musicians-centre-pattern.jpg" width="100%" />
+				<img src="http://modocodo.test/work/haworth-festival-collateral.jpg" width="100%" />
 			</div>
 		</div>
 
@@ -387,16 +360,9 @@
 				<h3>Brand identity.</h3>
 			</div>
 			<div class="row">
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/kenmuir-arms-logo-01.jpg" width="100%" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/kenmuir-arms-logo-02.jpg" width="100%" />
-					</div>
-				</div>
+				<div c`lass="item" data-type="image">
+					<img src="http://modocodo.test/work/kenmuir-arms-logo-01.jpg" width="100%" />
+				</div>`
 			</div>
 			<div class="item" data-type="image">
 				<img src="http://modocodo.test/work/kenmuir-arms-logo-03.jpg" width="100%" />
@@ -413,10 +379,16 @@
 				<h2>Et cetera.</h2>
 				<h3>Editorial, layout and brand identity.</h3>
 			</div>
+			<div class="item" data-type="image">
+				<img src="http://modocodo.test/work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" />
+				<div class="caption">
+					<p>Sky Playoff Final Wembley Machday Programme</p>
+				</div>
+			</div>
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/logos-aire-valley-archers.jpg" width="100%" />
+						<img src="http://modocodo.test/work/et-cetera-aire-valley-archers-logomark.jpg" width="100%" />
 						<div class="caption">
 							<p>Aire Valley Archers</p>
 						</div>
@@ -424,7 +396,7 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/logos-hayim.jpg" width="100%" />
+						<img src="http://modocodo.test/work/et-cetera-hayim-logomark.jpg" width="100%" />
 						<div class="caption">
 							<p>HAYIM Apparel</p>
 						</div>
@@ -434,7 +406,7 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/logos-emma-stone-photography.jpg" width="100%" />
+						<img src="http://modocodo.test/work/et-cetera-emma-stone-photography-logomark.jpg" width="100%" />
 						<div class="caption">
 							<p>Emma Stone Photography</p>
 						</div>
@@ -442,7 +414,7 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/logos-kerrys-cakes.jpg" width="100%" />
+						<img src="http://modocodo.test/work/et-cetera-kerrys-cakes-logomark.jpg" width="100%" />
 						<div class="caption">
 							<p>Kerry's Cakes</p>
 						</div>
@@ -452,7 +424,7 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/logos-doofman.jpg" width="100%" />
+						<img src="http://modocodo.test/work/et-cetera-musicians-centre-logomark.jpg" width="100%" />
 						<div class="caption">
 							<p>Doofman Ag</p>
 						</div>
@@ -460,7 +432,7 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/logos-atticus.jpg" width="100%" />
+						<img src="http://modocodo.test/work/et-cetera-atticus-logomark.jpg" width="100%" />
 						<div class="caption">
 							<p>Atticus Asset Library</p>
 						</div>
