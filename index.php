@@ -6,8 +6,8 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Healey Amplification</h2>
-				<h3>Interactive brand identity. Logoforms are brought to life using raw audio data from the companies flagship valve amplifiers to
-				create immersive static and dynamic brand assets.</h3>
+				<h3>An interactive brand identity where logoforms are brought to life using raw audio data from the companies' flagship valve amplifiers,
+				creating immersive and unique static and dynamic brand assets.</h3>
 			</div>
 			<div class="item" data-type="image">
 				<img src="http://modocodo.test/work/healey-amplification-pattern.jpg" width="100%" />
@@ -37,17 +37,26 @@
 				</div>
 			</div>
 			<div class="item" data-type="media">
+				<img src="http://modocodo.test/work/healey-amplification-logotype.jpg" width="100%" />
+			</div>
+			<div class="item" data-type="media">
 				<img src="http://modocodo.test/work/healey-amplification-brand-book.jpg" width="100%" />
 				<div class="caption">
-					<p>Brand book.</p>
+					<p>Brand / product look-book.</p>
+				</div>
+			</div>
+			<div class="item" data-type="media">
+				<img src="http://modocodo.test/work/healey-amplification-posters.jpg" width="100%" />
+				<div class="caption">
+					<p>Launch event posters.</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="media">
-						<img src="http://modocodo.test/work/healey-amplification-posters.jpg" width="100%" />
+						<img src="http://modocodo.test/work/healey-amplification-stationery.jpg" width="100%" />
 						<div class="caption">
-							<p>Launch event posters.</p>
+							<p>Business cards.</p>
 						</div>
 					</div>
 				</div>
@@ -258,7 +267,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Joe Tilston</h2>
-				<h3>Album art concept, design and production plus stop frame music video for 'Liza and Henry', the first single from Joe's debut album.</h3>
+				<h3>Album packaging concept, design and production alongside the stop frame music video for 'Liza and Henry', the first single from Joe's debut album.</h3>
 			</div>
 			<div class="item" data-type="image">
 				<img src="http://modocodo.test/work/joe-tilston-embers-album-01.jpg" width="100%" />
@@ -308,9 +317,11 @@
 			<div class="item" data-type="image">
 				<img src="http://modocodo.test/work/oliver-hunt-mobile-website-01.jpg" width="100%" />
 			</div>
+			<?php /*
 			<div class="item" data-type="image">
 				<img src="http://modocodo.test/work/oliver-hunt-desktop-website-01.jpg" width="100%" />
 			</div>
+			*/ ?>
 			<div class="row">
 				<div class="column-1-3">
 					<div class="item" data-type="image">
@@ -366,15 +377,22 @@
 				<h3>Brand identity.</h3>
 			</div>
 			<div class="row">
-				<div class="item" data-type="image">
-					<img src="http://modocodo.test/work/kenmuir-arms-logo-01.jpg" width="100%" />
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/kenmuir-arms-logo-02.jpg" width="100%" />
+					</div>
+				</div>
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/kenmuir-arms-logo-01.jpg" width="100%" />
+					</div>
 				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/kenmuir-arms-logo-03.jpg" width="100%" />
+				<img src="http://modocodo.test/work/kenmuir-arms-business-cards.jpg" width="100%" />
 			</div>
 			<div class="item" data-type="image">
-			<img src="http://modocodo.test/work/kenmuir-arms-business-cards.jpg" width="100%" />
+				<img src="http://modocodo.test/work/kenmuir-arms-logo-03.jpg" width="100%" />
 			</div>
 		</div>
 
