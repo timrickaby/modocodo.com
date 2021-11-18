@@ -172,7 +172,7 @@ body {
 
 .item { display: block; margin-bottom: 9px; } 
 
-.item .caption { margin-top: 4px; margin-bottom: 30px; width: 100%; }
+.item .caption { margin-top: 2px; margin-bottom: 30px; width: 100%; }
 .item .caption p { font-size: 0.8em;  text-align: center; display: block; color: #878787; }
 
 
@@ -188,7 +188,7 @@ body {
 
 /* Item Type: foliola-type-modocodo-copy */
 .item[data-type="copy"] { margin-bottom: 30px; text-align: center; padding: 0 120px 0 120px; }
-.item[data-type="copy"] h2 { padding-bottom: 12px; font-weight: 300;}
+.item[data-type="copy"] h2 { font-size: 1.3em; padding-bottom: 14px; font-weight: 300;}
 .item[data-type="copy"] h3 { color: #878787; }
 .item[data-type="copy"] h4 { color: #878787; font-size: 0.8em; margin-top: 8px }
 
@@ -204,11 +204,14 @@ body {
 @media only screen and (min-width: 1024px) and (max-width: 1400px)
 {
 	#page { width: 100%; padding: 50px 100px 0 100px; }
+	#page.home { width: 100%; }
+	#page.about { width: 100%; }
 
 	.item { margin-bottom: 10px; }
 	.item .caption p { text-align: center; }
-	.item[data-type="modocodo.copy"] { margin: 90px 0 20px 0; padding: 0 20px 0 20px; }
-
+	.item[data-type="copy"] { margin: 90px 0 20px 0; padding: 0 20px 0 20px; }
+	.item[data-type="copy"] h2 { font-size: 1em; }
+	
 	#footer { padding: 20px; }
 }
 
@@ -224,10 +227,13 @@ body {
 	}
 
 	#page { width: 100%; padding: 50px 100px 0 100px; }
+	#page.home { width: 100%; }
+	#page.about { width: 100%; }
 
 	.item { margin-bottom: 10px; }
 	.item .caption p { text-align: center; }
-	.item[data-type="modocodo.copy"] { margin: 90px 0 20px 0; padding: 0 20px 0 20px; }
+	.item[data-type="copy"] { margin: 90px 0 20px 0; padding: 0 20px 0 20px; }
+	.item[data-type="copy"] h2 { font-size: 1em; }
 }
 
 
@@ -236,14 +242,22 @@ body {
 @media only screen and (max-width: 768px)
 {	
 	body { font-size: 17px; }
-	
+
+	p {
+		margin: 0 0 20px 0;
+		padding: 0;
+		word-wrap: break-word;
+	}
+
 	.row [class*='column-']:not(.fixed) {
 		width: 100%; 
 		margin-right: 0;
 		clear: both; 
 	}
-	
+
 	#page { width: 100%; padding: 40px 0 0 0; }
+	#page.home { width: 100%; }
+	#page.about { width: 100%; }
 	
 	#identity { margin-bottom: 50px }
 	#identity img { width: 140px; height: 140px; }
@@ -251,11 +265,14 @@ body {
 	#navigation ul li { margin: 0 20px 0 20px; }
 	
 	#profile { text-align: center; margin: 90px 0 40px 0; padding: 0 10px 0 10px; }
-	#profile p { font-size: 21px; line-height: 36px; }
+	#profile p { font-size: 21px; line-height: 30px; }
+
+	.project { margin-top: 90px; margin-bottom: 120px; } 
 
 	.item { margin-bottom: 10px; }
 	.item .caption p { text-align: center; }
-	.item[data-type="modocodo.copy"] { margin: 90px 0 20px 0; padding: 0 20px 0 20px; }
+	.item[data-type="copy"] { margin: 50px 0 20px 0; padding: 0 20px 0 20px; }
+	.item[data-type="copy"] h2 { font-size: 1em; }
 
 	#footer { padding: 50px 0 30px 0px; color: #000000; }
 	#footer a { color: #000000; }

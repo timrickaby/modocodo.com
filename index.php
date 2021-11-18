@@ -396,12 +396,12 @@
 			</div>
 		</div>
 
-		
+
 
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Et cetera.</h2>
-				<h3>Editorial, layout and brand identity.</h3>
+				<h3>Other editorial, layout and brand identity projects.</h3>
 			</div>
 			<div class="item" data-type="image">
 				<img src="http://modocodo.test/work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" />
@@ -430,6 +430,24 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/et-cetera-foxes-faux-fox-tales-album-art.jpg" width="100%" />
+						<div class="caption">
+							<p>Foxes Faux 'Fox Tales' album design and artwork.</p>
+						</div>
+					</div>
+				</div>
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/et-cetera-foxes-faux-liars-ep-art.jpg" width="100%" />
+						<div class="caption">
+							<p>Foxes Faux 'Liars' album and EP design and artwork.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="column-1-2">
+					<div class="item" data-type="image">
 						<img src="http://modocodo.test/work/et-cetera-emma-stone-photography-logomark.jpg" width="100%" />
 						<div class="caption">
 							<p>Emma Stone Photography</p>
@@ -438,9 +456,9 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-kerrys-cakes-logomark.jpg" width="100%" />
+						<img src="http://modocodo.test/work/et-cetera-musicians-centre-logomark.jpg" width="100%" />
 						<div class="caption">
-							<p>Kerry's Cakes</p>
+							<p>Doofman Ag</p>
 						</div>
 					</div>
 				</div>
@@ -448,9 +466,9 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-musicians-centre-logomark.jpg" width="100%" />
+						<img src="http://modocodo.test/work/et-cetera-kerrys-cakes-logomark.jpg" width="100%" />
 						<div class="caption">
-							<p>Doofman Ag</p>
+							<p>Kerry's Cakes</p>
 						</div>
 					</div>
 				</div>
@@ -459,6 +477,24 @@
 						<img src="http://modocodo.test/work/et-cetera-atticus-logomark.jpg" width="100%" />
 						<div class="caption">
 							<p>Atticus Asset Library</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/et-cetera-st-vincents-wine-logomark.jpg" width="100%" />
+						<div class="caption">
+							<p>St. Vincents Wines</p>
+						</div>
+					</div>
+				</div>
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="http://modocodo.test/work/et-cetera-annie-drury-fall-at-your-feet-album-art.jpg" width="100%" />
+						<div class="caption">
+							<p>Annie Drury Fall At Your Feet Album Art</p>
 						</div>
 					</div>
 				</div>

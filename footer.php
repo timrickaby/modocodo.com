@@ -6,7 +6,7 @@
 		</span>
 		<span class="registration">
 			Modocodo Ltd. Registered Company: 13703897<br />
-			Work selected is from working at and with the following agencies, companies people and clients: IMA.
+			<?php /*Work selected is from working at and with the following agencies, companies people and clients: IMA.*/ ?>
 		</span>
 	</div>
 

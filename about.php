@@ -26,7 +26,7 @@
 
 			<p><a href="https://instagram.com/modocodo.studio" target="_blank">Follow on Instagram</a></p>
 
-			<p><a href="https://www.linkedin.com/in/timrickaby" target="_blank">Connect on LinkedIn</a></p>
+			<p><a href="https://www.linkedin.com/in/timrickaby" target="_blank">Connect with Tim on LinkedIn</a></p>
 		</div>
 	</div>
 
