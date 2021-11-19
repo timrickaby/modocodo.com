@@ -3,7 +3,7 @@
 
 	<div id="about" class="row">
 		<div id="profile" class="row">
-			<p>Modocodo is the creative design and development studio of <a href="https://timrickaby.com" target="_blank">Tim Rickaby</a>, Yorkshire based multi-disciplinery designer, coder and writer.</p>
+			<p>Modocodo is the creative studio of <a href="https://timrickaby.com" target="_blank">Tim Rickaby</a>, Yorkshire based designer, coder and writer.</p>
 			
 			<p>Experience working agency-side with brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities and musicians. </p>
 

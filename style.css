@@ -127,7 +127,7 @@ body {
 /* Page Layout */
 #page { padding: 80px 100px 0 100px; margin: 0 auto 0 auto; }
 #page.home { width: 1300px; }
-#page.about { width: 1600px; }
+#page.about { width: 1500px; }
 
 #identity { margin-bottom: 80px; }
 #identity h1 { text-align: center !important; font-size: 1.6em; font-weight: 300; letter-spacing: 3px; }

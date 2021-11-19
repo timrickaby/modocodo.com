@@ -44,7 +44,7 @@
 		<div id="page" class="row <?php echo $location; ?>">
 			<div id="identity" class="row">
 				<?php /* <h1>Modocodo</h1> */ ?>
-				<a href="/"><img src="assets/modocodo-logomark-bold.jpg"></a>
+				<a href="/"><img src="../assets/modocodo-logomark-bold.jpg"></a>
 			</div>
 
 			<div id="navigation" class="row">
