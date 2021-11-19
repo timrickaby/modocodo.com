@@ -280,7 +280,7 @@
 			<div class="item" data-type="image">
 				<img src="work/joe-tilston-embers-album-02.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
-					<p>Behind the scenes – album design photography and music video production.</p>
+					<p>Behind the scenes album design and music video production.</p>
 				</div>
 			</div>
 		</div>
@@ -413,6 +413,12 @@
 					<p>Foxes Faux album design and artwork for 'Fox Tales' and 'Liars'.</p>
 				</div>
 			</div>
+			<div class="item" data-type="image">
+				<img src="work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" nopin = "nopin" />
+				<div class="caption">
+					<p>Sky Playoff Final Wembley Machday Programme Design</p>
+				</div>
+			</div>
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
@@ -429,12 +435,6 @@
 							<p>Musicians Centre Logomark</p>
 						</div>
 					</div>
-				</div>
-			</div>
-			<div class="item" data-type="image">
-				<img src="work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" nopin = "nopin" />
-				<div class="caption">
-					<p>Sky Playoff Final Wembley Machday Programme Design</p>
 				</div>
 			</div>
 			<div class="row">
