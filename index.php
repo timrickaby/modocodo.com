@@ -10,7 +10,7 @@
 				creating immersive and unique brand assets.</h3>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/healey-amplification-pattern.jpg" width="100%" nopin = "nopin" />
+				<img src="work/healey-amplification-pattern.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<div class="item">
 				<div class="row">
@@ -31,22 +31,22 @@
 							</div>
 						</div>
 						<div class="caption">
-							<p>Logoform modelled on a rock waveform from the Gen 1valve amplifier.</p>
+							<p>Logoform modelled on a rock waveform from the Gen 1 valve amplifier.</p>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="item" data-type="media">
-				<img src="http://modocodo.test/work/healey-amplification-logotype.jpg" width="100%" nopin = "nopin" />
+				<img src="work/healey-amplification-logotype.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<div class="item" data-type="media">
-				<img src="http://modocodo.test/work/healey-amplification-brand-book.jpg" width="100%" nopin = "nopin" />
+				<img src="work/healey-amplification-brand-book.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
 					<p>Product lookbook.</p>
 				</div>
 			</div>
 			<div class="item" data-type="media">
-				<img src="http://modocodo.test/work/healey-amplification-posters.jpg" width="100%" nopin = "nopin" />
+				<img src="work/healey-amplification-posters.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
 					<p>POS posters.</p>
 				</div>
@@ -54,7 +54,7 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="media">
-						<img src="http://modocodo.test/work/healey-amplification-stationery.jpg" width="100%" nopin = "nopin" />
+						<img src="work/healey-amplification-stationery.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>Business cards.</p>
 						</div>
@@ -62,7 +62,7 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="media">
-						<img src="http://modocodo.test/work/healey-amplification-cards.jpg" width="100%" nopin = "nopin" />
+						<img src="work/healey-amplification-cards.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>Launch event activation. Bespoke customer takeaways.</p>
 						</div>
@@ -80,57 +80,57 @@
 			</div>
 			
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/adidas-pod-01.jpg" width="100%" nopin = "nopin" />
+				<img src="work/adidas-pod-01.jpg" width="100%" nopin = "nopin" />
 			</div>
 	
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-10.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-pod-10.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-09.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-pod-09.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/adidas-pod-11.jpg" width="100%" nopin = "nopin" />
+				<img src="work/adidas-pod-11.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-03.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-pod-03.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-04.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-05.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-06.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-pod-04.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-07.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-pod-05.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-pod-08.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-pod-06.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/adidas-pod-07.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/adidas-pod-08.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
@@ -139,7 +139,7 @@
 				<h3><br /><br /><br />Nite Jogger<br />Oculus Rift VR experience for instore product launch experience. Concept and sketches were brought to life by an incredible motion design team at IMA.</h3>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/adidas-nite-jogger-vr-flat-render.jpg" width="100%"  nopin = "nopin"/>
+				<img src="work/adidas-nite-jogger-vr-flat-render.jpg" width="100%"  nopin = "nopin"/>
 			</div>
 			<div class="item" data-type="embed">
 				<div class="media-wrapper">
@@ -150,17 +150,17 @@
 			<div class="row">
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-nite-jogger-instore-01.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-nite-jogger-instore-01.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-nite-jogger-instore-02.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-nite-jogger-instore-02.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-nite-jogger-instore-03.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-nite-jogger-instore-03.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
@@ -172,17 +172,17 @@
 			<div class="row">
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-athletics-install-01.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-athletics-install-01.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-athletics-install-03.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-athletics-install-03.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/adidas-athletics-install-04.jpg" width="100%" nopin = "nopin" />
+						<img src="work/adidas-athletics-install-04.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
@@ -206,51 +206,51 @@
 			<div class="row">
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-01.jpg" width="100%" nopin = "nopin" />
+						<img src="work/foot-locker-and-jd-sports-01.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-02.jpg" width="100%" nopin = "nopin" />
+						<img src="work/foot-locker-and-jd-sports-02.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-03.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-04.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-05.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-06.jpg" width="100%" nopin = "nopin" />
+						<img src="work/foot-locker-and-jd-sports-03.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-07.jpg" width="100%" nopin = "nopin" />
+						<img src="work/foot-locker-and-jd-sports-04.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-08.jpg" width="100%" nopin = "nopin" />
+						<img src="work/foot-locker-and-jd-sports-05.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/foot-locker-and-jd-sports-09.jpg" width="100%" nopin = "nopin" />
+						<img src="work/foot-locker-and-jd-sports-06.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="work/foot-locker-and-jd-sports-07.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="work/foot-locker-and-jd-sports-08.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="work/foot-locker-and-jd-sports-09.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
@@ -264,7 +264,7 @@
 				<h3>Album packaging concept, design and production alongside stop frame video illustrations for 'Liza and Henry' - the first single from Joe's debut album.</h3>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/joe-tilston-embers-album-01.jpg" width="100%" nopin = "nopin" />
+				<img src="work/joe-tilston-embers-album-01.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
 					<p>Album concept and design.</p>
 				</div>
@@ -278,7 +278,7 @@
 				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/joe-tilston-embers-album-02.jpg" width="100%" nopin = "nopin" />
+				<img src="work/joe-tilston-embers-album-02.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
 					<p>Behind the scenes – album design photography and music video production.</p>
 				</div>
@@ -294,10 +294,10 @@
 				<h4>View on Adobe Exchange</h4>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
+				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/awesome-exporter-ui-01.jpg" width="100%" nopin = "nopin" />
+				<img src="work/awesome-exporter-ui-01.jpg" width="100%" nopin = "nopin" />
 			</div>
 		</div>
 
@@ -309,27 +309,27 @@
 				<h3>Web design and brand identity for PGA professional golfer.</h3>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/oliver-hunt-mobile-website-01.jpg" width="100%" nopin = "nopin" />
+				<img src="work/oliver-hunt-mobile-website-01.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<?php /*
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/oliver-hunt-desktop-website-01.jpg" width="100%" />
+				<img src="work/oliver-hunt-desktop-website-01.jpg" width="100%" />
 			</div>
 			*/ ?>
 			<div class="row">
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/oliver-hunt-logo-01.jpg" width="100%" nopin = "nopin" />
+						<img src="work/oliver-hunt-logo-01.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/oliver-hunt-logo-02.jpg" width="100%" nopin = "nopin" />
+						<img src="work/oliver-hunt-logo-02.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-3">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/oliver-hunt-logo-03.jpg" width="100%" nopin = "nopin" />
+						<img src="work/oliver-hunt-logo-03.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
@@ -345,24 +345,26 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/haworth-festival-logo-01.jpg" width="100%" nopin = "nopin" />
+						<img src="work/haworth-festival-logo-01.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/haworth-festival-logo-02.jpg" width="100%" nopin = "nopin" />
+						<img src="work/haworth-festival-logo-02.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/haworth-festival-posters.jpg" width="100%" nopin = "nopin" />
+				<img src="work/haworth-festival-posters.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/haworth-festival-collateral.jpg" width="100%" nopin = "nopin" />
+				<img src="work/haworth-festival-collateral.jpg" width="100%" nopin = "nopin" />
 			</div>
+			<?php /*
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/haworth-festival-brochure.jpg" width="100%" nopin = "nopin" />
+				<img src="work/haworth-festival-brochure.jpg" width="100%" nopin = "nopin" />
 			</div>
+			*/ ?>
 		</div>
 
 
@@ -375,20 +377,20 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/kenmuir-arms-logo-02.jpg" width="100%" nopin = "nopin" />
+						<img src="work/kenmuir-arms-logo-02.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/kenmuir-arms-logo-01.jpg" width="100%" nopin = "nopin" />
+						<img src="work/kenmuir-arms-logo-01.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/kenmuir-arms-business-cards.jpg" width="100%" nopin = "nopin" />
+				<img src="work/kenmuir-arms-business-cards.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/kenmuir-arms-logo-03.jpg" width="100%" nopin = "nopin" />
+				<img src="work/kenmuir-arms-logo-03.jpg" width="100%" nopin = "nopin" />
 			</div>
 		</div>
 
@@ -400,13 +402,13 @@
 				<h3>Other editorial, layout and brand identity projects.</h3>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/et-cetera-annie-drury-fall-at-your-feet-album-art.jpg" width="100%" nopin = "nopin" />
+				<img src="work/et-cetera-annie-drury-fall-at-your-feet-album-art.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
 					<p>Annie Drury Fall At Your Feet Album Art</p>
 				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/et-cetera-foxes-faux-album-cover-design.jpg" width="100%" nopin = "nopin" />
+				<img src="work/et-cetera-foxes-faux-album-cover-design.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
 					<p>Foxes Faux album design and artwork for 'Fox Tales' and 'Liars'.</p>
 				</div>
@@ -414,7 +416,7 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-emma-stone-photography-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-emma-stone-photography-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>Emma Stone Photography Logomark</p>
 						</div>
@@ -422,7 +424,7 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-musicians-centre-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-musicians-centre-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>Musicians Centre Logomark</p>
 						</div>
@@ -430,7 +432,7 @@
 				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="http://modocodo.test/work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" nopin = "nopin" />
+				<img src="work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
 					<p>Sky Playoff Final Wembley Machday Programme Design</p>
 				</div>
@@ -438,7 +440,7 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-aire-valley-archers-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-aire-valley-archers-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>Aire Valley Archers Logomark</p>
 						</div>
@@ -446,7 +448,7 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-hayim-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-hayim-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>HAYIM Apparel Logomark</p>
 						</div>
@@ -456,7 +458,7 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-kerrys-cakes-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-kerrys-cakes-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>Kerry's Cakes Logomark</p>
 						</div>
@@ -464,7 +466,7 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-atticus-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-atticus-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>Atticus Asset Library Logomark</p>
 						</div>
@@ -474,7 +476,7 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-doofman-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-doofman-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>DM</p>
 						</div>
@@ -482,7 +484,7 @@
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="http://modocodo.test/work/et-cetera-st-vincents-wine-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-st-vincents-wine-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
 							<p>St. Vincents Wines Logomark</p>
 						</div>

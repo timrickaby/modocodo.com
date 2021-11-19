@@ -14,22 +14,22 @@
 		<meta name="description" content="A design and development studio. Specialising in branding, websites and ideas." />
 		<meta property="og:locale" content="en_GB" />
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content="modocodo" />
+		<meta property="og:title" content="Modocodo" />
 		<meta property="og:description" content="A design and development studio. Specialising in branding, websites and ideas." />
-		<meta property="og:url" content="http://modocodo.test/" />
-		<meta property="og:site_name" content="modocodo" />
+		<meta property="og:url" content="https://modocodo.studio" />
+		<meta property="og:site_name" content="Modocodo" />
 		<meta property="article:modified_time" content="2021-08-05T17:56:04+00:00" />
 		<meta name="twitter:card" content="summary_large_image" />
 
-		<link rel="canonical" href="http://modocodo.test/" />		
+		<link rel="canonical" href="https://modocodo.studio/" />		
 		<link rel="preconnect" href="https://fonts.googleapis.com"> 
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap" rel="stylesheet">	
 		<link rel='dns-prefetch' href='//s.w.org' />
-		<link rel='stylesheet' id='style-css'  href='http://modocodo.test/style.css' type='text/css' media='all' />
+		<link rel='stylesheet' id='style-css'  href='/style.css' type='text/css' media='all' />
 		<link rel="start" href="http://modocodo.test">
-		<link rel='shortlink' href='http://modocodo.test/' />
-		<link rel="icon" type="image/png" href="http://modocodo.test/assets/img/favicon.png">
+		<link rel='shortlink' href='https://modocodo.studio/' />
+		<link rel="icon" type="image/png" href="assets/favicon.png">
 
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-1D561QZJFJ"></script>
 		<script>
@@ -44,14 +44,14 @@
 		<div id="page" class="row <?php echo $location; ?>">
 			<div id="identity" class="row">
 				<?php /* <h1>Modocodo</h1> */ ?>
-				<a href="http://modocodo.test"><img src="http://modocodo.test/assets/modocodo-logomark-bold.jpg"></a>
+				<a href="/"><img src="assets/modocodo-logomark-bold.jpg"></a>
 			</div>
 
 			<div id="navigation" class="row">
 				<nav>
 					<ul>
-						<li><a class="<?php echo ($location == 'home' ? 'current' : 'faded'); ?>" href="http://modocodo.test" alt="Work">Recent Work</a></li>
-						<li><a class="<?php echo ($location == 'about' ? 'current' : 'faded'); ?>" href="http://modocodo.test/about" alt="About">About</a></li>
+						<li><a class="<?php echo ($location == 'home' ? 'current' : 'faded'); ?>" href="/" alt="Work">Recent Work</a></li>
+						<li><a class="<?php echo ($location == 'about' ? 'current' : 'faded'); ?>" href="about/" alt="About">About</a></li>
 						<li><a class="faded" href="mailto:hello@modocodo.studio" alt="Contact">Get In Touch</a></li>
 					</ul>
 				</nav>

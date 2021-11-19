@@ -172,8 +172,8 @@ body {
 
 .item { display: block; margin-bottom: 9px; } 
 
-.item .caption { margin-top: 2px; margin-bottom: 30px; width: 100%; }
-.item .caption p { font-size: 0.8em; text-align: center; display: block; color: #878787; }
+.item .caption { margin-top: 2px; margin-bottom: 30px; width: 100%; padding: 0 120px 0 120px; }
+.item .caption p { font-size: 0.8em; line-height: 1.4em; text-align: center; display: block; color: #878787; }
 
 
 /* Item Type: foliola-type-client-media */
@@ -231,6 +231,7 @@ body {
 	#page.about { width: 100%; }
 
 	.item { margin-bottom: 10px; }
+	.item .caption  { margin-bottom: 15px; padding: 0 30px 0 30px; }
 	.item .caption p { text-align: center; }
 	.item[data-type="copy"] { margin: 90px 0 20px 0; padding: 0 20px 0 20px; }
 	.item[data-type="copy"] h2 { font-size: 1em; }
@@ -241,7 +242,10 @@ body {
 /* Phones */
 @media only screen and (max-width: 768px)
 {	
-	body { font-size: 17px; }
+	body { 
+		font-size: 16px;
+		line-height: 21px;
+	}
 
 	p {
 		margin: 0 0 20px 0;
@@ -265,14 +269,15 @@ body {
 	#identity { margin-bottom: 50px }
 	#identity img { width: 140px; height: 140px; }
 	#navigation { margin-bottom: 0; }
-	#navigation ul li { margin: 0 20px 0 20px; }
+	#navigation ul li { margin: 0 15px 0 15px; }
 	
 	#profile { text-align: center; margin: 90px 0 40px 0; padding: 0 10px 0 10px; }
 	#profile p { font-size: 21px; line-height: 30px; }
 
 	.project { margin-top: 90px; margin-bottom: 120px; } 
 
-	.item { margin-bottom: 10px; }
+	.item { margin-bottom: 8px; }
+	.item .caption  { margin-bottom: 15px; padding: 0 30px 0 30px; }
 	.item .caption p { text-align: center; }
 	.item[data-type="copy"] { margin: 50px 0 20px 0; padding: 0 20px 0 20px; }
 	.item[data-type="copy"] h2 { font-size: 1em; }
