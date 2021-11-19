@@ -173,7 +173,7 @@ body {
 .item { display: block; margin-bottom: 9px; } 
 
 .item .caption { margin-top: 2px; margin-bottom: 30px; width: 100%; }
-.item .caption p { font-size: 0.8em;  text-align: center; display: block; color: #878787; }
+.item .caption p { font-size: 0.8em; text-align: center; display: block; color: #878787; }
 
 
 /* Item Type: foliola-type-client-media */
@@ -248,6 +248,9 @@ body {
 		padding: 0;
 		word-wrap: break-word;
 	}
+
+	a::before { }
+	a:hover::before { }
 
 	.row [class*='column-']:not(.fixed) {
 		width: 100%; 

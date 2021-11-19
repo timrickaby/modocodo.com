@@ -1,2 +1,14 @@
 User-agent: Googlebot-Image
 Disallow: /
+
+User-agent: Googlebot
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.png$
+
+User-agent: *
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.png$
