@@ -140,12 +140,21 @@
 				<h3><br /><br /><br />Nite Jogger</h3>
 				<p>Oculus Rift VR experience for instore product launch experience. Concept and sketches were brought to life by an incredible motion design team at IMA.</p>
 			</div>
-			<div class="item" data-type="image">
-				<img src="work/adidas-nite-jogger-vr-flat-render.jpg" width="100%"  nopin = "nopin"/>
-			</div>
 			<div class="item" data-type="embed">
 				<div class="media-wrapper">
 					<iframe src="https://player.vimeo.com/video/330599851" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
+			<div class="row">
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/adidas-nite-jogger-vr-flat-render-left.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/adidas-nite-jogger-vr-flat-render-right.jpg" width="100%" nopin = "nopin" />
+					</div>
 				</div>
 			</div>
 			<?php /*
@@ -283,7 +292,7 @@
 			<div class="item" data-type="image">
 				<img src="work/joe-tilston-embers-album-02.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
-					<p>Behind the scenes album design and music video production.</p>
+					<p>Behind the scenes album design and illustrated music video production.</p>
 				</div>
 			</div>
 		</div>
@@ -373,7 +382,7 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Kenmuir Arms – Hotel and Restaurant, Scotland</h2>
+				<h2>Kenmuir Arms Hotel, Scotland</h2>
 				<p>Brand identity.</p>
 			</div>
 			<div class="row">
