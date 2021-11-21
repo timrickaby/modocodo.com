@@ -283,7 +283,8 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Awesome Exporter – Adobe InDesign App</h2>
-				<p>Development, UI design and branding for JavaScript based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files. View on Adobe Exchange</p>
+				<p>Development, UI design and branding for JavaScript based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files.
+				<?php /* View on Adobe Exchange */ ?></p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
@@ -468,17 +469,17 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="work/et-cetera-doofman-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-st-vincents-wine-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
-							<p>DM</p>
+							<p>St. Vincents Wines Logomark</p>
 						</div>
 					</div>
 				</div>
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="work/et-cetera-st-vincents-wine-logomark.jpg" width="100%" nopin = "nopin" />
+						<img src="work/et-cetera-doofman-logomark.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
-							<p>St. Vincents Wines Logomark</p>
+							<p>DM</p>
 						</div>
 					</div>
 				</div>
