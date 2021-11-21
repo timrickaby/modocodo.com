@@ -92,6 +92,7 @@ body {
 		margin: 0 0 40px 0;
 		padding: 0;
 		word-wrap: break-word;
+		text-rendering: optimizeLegibility;
 	}
 	p img { margin: 0; padding: 0; }
 	p:last-child { margin-bottom: 0; }
