@@ -6,7 +6,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Healey Amplification</h2>
-				<p>Interactive brand identity where logoforms are brought to life using audio data from the companies' valve amplifiers,
+				<p>Interactive brand identity where logoforms are brought to life using audio data from the company's valve amplifiers,
 				creating immersive and unique brand assets.</p>
 			</div>
 			<div class="item" data-type="image">
@@ -157,25 +157,6 @@
 					</div>
 				</div>
 			</div>
-			<?php /*
-			<div class="row">
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="work/adidas-nite-jogger-instore-01.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="work/adidas-nite-jogger-instore-02.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="work/adidas-nite-jogger-instore-03.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-			</div>
-			*/ ?>
 
 			<div class="item" data-type="copy">
 				<h3><br /><br /><br />Athletics 'Find Focus'</h3>
@@ -203,7 +184,7 @@
 					<iframe src="https://player.vimeo.com/video/202110711" frameborder="0" allowfullscreen></iframe>
 				</div>
 				<div class="caption">
-					<p>Behind the scenes pf creative installs at Foot Locker, Harrods and WIT.</p>
+					<p>Behind the scenes at Foot Locker, Harrods and WIT creative installs.</p>
 				</div>
 			</div>
 		</div>
@@ -302,7 +283,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Awesome Exporter – Adobe InDesign App</h2>
-				<p>Development, UI design and branding for JS based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files. View on Adobe Exchange</p>
+				<p>Development, UI design and branding for JavaScript based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files. View on Adobe Exchange</p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
@@ -351,7 +332,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Haworth Festival</h2>
-				<p>Brand identity, print design and website. Inspired by the well-worn cobbles and energetic, vibrant village culture.</p>
+				<p>Brand identity, print design and website. Inspired by the well-worn cobbles and vibrant village culture.</p>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
@@ -427,7 +408,7 @@
 			<div class="item" data-type="image">
 				<img src="work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
-					<p>Sky Playoff Final Wembley Machday Programme Design</p>
+					<p>Sky Playoff Final Wembley Matchday Programme Design</p>
 				</div>
 			</div>
 			<div class="row">
