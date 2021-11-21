@@ -1,13 +1,13 @@
 <?php global $location; $location = 'home'; ?>
 <?php include_once($_SERVER['DOCUMENT_ROOT'] . '/header.php'); ?>
 
-	<div id="work" class="row">
+	<div id="body" class="row <?php echo $location; ?>">
 				
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Healey Amplification</h2>
-				<h3>Interactive brand identity where logoforms are brought to life using audio data from the companies' valve amplifiers,
-				creating immersive and unique brand assets.</h3>
+				<p>Interactive brand identity where logoforms are brought to life using audio data from the companies' valve amplifiers,
+				creating immersive and unique brand assets.</p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/healey-amplification-pattern.jpg" width="100%" nopin = "nopin" />
@@ -76,7 +76,8 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Adidas (IMA)</h2>
-				<h3>P.O.D System<br />Concepts, design and production guidelines for retail windows, instore activations and point of sale.</h3>
+				<h3>P.O.D System</h3>
+				<p>Concepts, design and production guidelines for retail windows, activations and point of sale.</p>
 			</div>
 			
 			<div class="item" data-type="image">
@@ -136,7 +137,8 @@
 			</div>
 
 			<div class="item" data-type="copy">
-				<h3><br /><br /><br />Nite Jogger<br />Oculus Rift VR experience for instore product launch experience. Concept and sketches were brought to life by an incredible motion design team at IMA.</h3>
+				<h3><br /><br /><br />Nite Jogger</h3>
+				<p>Oculus Rift VR experience for instore product launch experience. Concept and sketches were brought to life by an incredible motion design team at IMA.</p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/adidas-nite-jogger-vr-flat-render.jpg" width="100%"  nopin = "nopin"/>
@@ -167,7 +169,8 @@
 			*/ ?>
 
 			<div class="item" data-type="copy">
-				<h3><br /><br /><br />Athletics 'Find Focus'<br />Creative guidelines and install for windows, point of sale and digital screens.</h3>
+				<h3><br /><br /><br />Athletics 'Find Focus'</h3>
+				<p>Creative guidelines and install for windows, point of sale and digital screens.</p>
 			</div>
 			<div class="row">
 				<div class="column-1-3">
@@ -201,7 +204,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Foot Locker (IMA)</h2>
-				<h3>Photography concepts, studio direction and retouching for Foot Locker's social channels.</h3>
+				<p>Photography concepts, studio direction and retouching for Foot Locker's social channels.</p>
 			</div>
 			<div class="row">
 				<div class="column-1-3">
@@ -261,7 +264,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Joe Tilston</h2>
-				<h3>Album packaging concept, design and production alongside stop frame video illustrations for 'Liza and Henry' - the first single from Joe's debut album.</h3>
+				<p>Album packaging concept, design and production alongside stop frame video illustrations for 'Liza and Henry' - the first single from Joe's debut album.</p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/joe-tilston-embers-album-01.jpg" width="100%" nopin = "nopin" />
@@ -290,8 +293,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Awesome Exporter – Adobe InDesign App</h2>
-				<h3>Development, UI design and branding for JS based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files.</h3>
-				<h4>View on Adobe Exchange</h4>
+				<p>Development, UI design and branding for JS based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files. View on Adobe Exchange</p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
@@ -306,7 +308,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Oliver Hunt</h2>
-				<h3>Web design and brand identity for PGA professional golfer.</h3>
+				<p>Web design and brand identity for PGA professional golfer.</p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/oliver-hunt-mobile-website-01.jpg" width="100%" nopin = "nopin" />
@@ -340,7 +342,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Haworth Festival</h2>
-				<h3>Brand identity, print design and website. Inspired by the well-worn cobbles and energetic, vibrant village culture.</h3>
+				<p>Brand identity, print design and website. Inspired by the well-worn cobbles and energetic, vibrant village culture.</p>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
@@ -372,7 +374,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Kenmuir Arms – Hotel and Restaurant, Scotland</h2>
-				<h3>Brand identity.</h3>
+				<p>Brand identity.</p>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
@@ -399,7 +401,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Et cetera.</h2>
-				<h3>Other editorial, layout and brand identity projects.</h3>
+				<p>Other editorial, layout and brand identity projects.</p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/et-cetera-annie-drury-fall-at-your-feet-album-art.jpg" width="100%" nopin = "nopin" />
