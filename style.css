@@ -81,12 +81,17 @@ body {
 		left: 0;
 		background-color: #333;
 		transform: scaleX(0);
-		transition: transform 0.3s ease;
-		outline: 1px solid transparent;
+		transition: transform 0.2s ease;
 		box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
 	}
-	a:hover::before { transform: scaleX(1); }
-	a.faded::before { background-color: #878787 !important;}
+	a:hover::before { 
+		transform: scaleX(1);
+		box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
+	}
+	a.faded::before {
+		background-color: #878787 !important;
+		box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
+	}
 
 	p {
 		margin: 0 0 40px 0;
@@ -158,13 +163,11 @@ body {
 		bottom: -3px;
 		left: 0;
 		transform: scaleX(1);
-		transition: transform 0.3s ease;
-		outline: 1px solid transparent;
+		transition: transform 0.2s ease;
 		box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
 	}
 	#body.about a:hover::before { 
 		transform: scaleX(0);
-		outline: 1px solid transparent;
 		box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
 	}
 
