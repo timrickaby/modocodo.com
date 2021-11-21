@@ -138,7 +138,7 @@
 
 			<div class="item" data-type="copy">
 				<h3><br /><br /><br />Nite Jogger</h3>
-				<p>Oculus Rift VR experience for instore product launch experience. Concept and sketches were brought to life by an incredible motion design team at IMA.</p>
+				<p>Oculus Rift VR experience for instore product launch experience. My concepts and sketches were brought to life by the incredible motion design team at IMA.</p>
 			</div>
 			<div class="item" data-type="embed">
 				<div class="media-wrapper">
