@@ -466,6 +466,7 @@
 					</div>
 				</div>
 			</div>
+			<?php /*
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
@@ -484,6 +485,7 @@
 					</div>
 				</div>
 			</div>
+			*/ ?>
 		</div>
 	</div>
 

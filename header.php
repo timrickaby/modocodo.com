@@ -29,7 +29,7 @@
 		<link rel='stylesheet' id='style-css'  href='/style.css' type='text/css' media='all' />
 		<link rel="start" href="http://modocodo.test">
 		<link rel='shortlink' href='https://modocodo.studio/' />
-		<link rel="icon" type="image/png" href="assets/favicon.png">
+		<link rel="shortcut icon" type="image/png" href="https://modocodo.studio/assets/favicon.png">
 
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-1D561QZJFJ"></script>
 		<script>
