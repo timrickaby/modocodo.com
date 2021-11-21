@@ -179,7 +179,7 @@ body {
 
 .project .item { display: block; margin-bottom: 9px; } 
 
-.project .item .caption { margin-top: 2px; margin-bottom: 30px; width: 100%; padding: 0 100px 0 100px; }
+.project .item .caption { margin-top: 4px; margin-bottom: 30px; width: 100%; padding: 0 100px 0 100px; }
 .project .item .caption p { font-size: 0.8em; line-height: 1.4em; text-align: center; display: block; color: #878787; }
 
 .project .item[data-type="media"] .media-wrapper { width: 100%; max-width: 100%; margin-bottom: 20px;  border: none; }

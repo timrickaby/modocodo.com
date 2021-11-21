@@ -64,7 +64,7 @@
 					<div class="item" data-type="media">
 						<img src="work/healey-amplification-cards.jpg" width="100%" nopin = "nopin" />
 						<div class="caption">
-							<p>Launch event activation. Bespoke customer takeaways.</p>
+							<p>Launch event activation - customer takeaways.</p>
 						</div>
 					</div>
 				</div>
