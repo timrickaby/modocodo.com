@@ -3,8 +3,8 @@
 
 	<div id="body" class="row <?php echo $location; ?>">
 
-		<p>Modocodo is the creative studio of <a href="https://timrickaby.com" target="_blank">Tim Rickaby</a> - Yorkshire based designer, coder and writer
-		delivering creative and technical solutions which are unique, meaningful and effective.</p>
+		<p>Modocodo is the creative studio of <a href="https://timrickaby.com" target="_blank">Tim Rickaby</a> - Yorkshire based designer and coder, 
+		delivering unique, meaningful and effective creative and technical solutions.</p>
 		
 		<p>Working agency-side with brands like Adidas, Reebok and Virgin, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities and musicians. 
 		Helping to launch brands, products and ideas to domestic and global markets.</p>
@@ -17,7 +17,7 @@
 			<li><p>Creative direction</p></li>
 			<li><p>Brand identity design</p></li>
 			<li><p>Product naming and branding</p></li>
-			<li><p>Retail window and pos design</p></li>
+			<li><p>Retail window and POS design</p></li>
 			<li><p>Album packaging and artwork</p></li>
 			<li><p>Short-form copywriting</p></li>
 			<li><p>Product photography direction</p></li>
