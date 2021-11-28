@@ -189,8 +189,37 @@
 			</div>
 		</div>
 
+
+
+		<div class="project">
+			<div class="item" data-type="copy">
+				<h2>Joe Tilston</h2>
+				<p>Album packaging concept, design and production alongside stop frame video illustrations for 'Liza and Henry' - the first single from Joe's debut album.</p>
+			</div>
+			<div class="item" data-type="image">
+				<img src="work/joe-tilston-embers-album-01.jpg" width="100%" nopin = "nopin" />
+				<div class="caption">
+					<p>Album concept and design.</p>
+				</div>
+			</div>
+			<div class="item" data-type="embed">
+				<div class="media-wrapper">
+					<iframe src="https://player.vimeo.com/video/202100716" frameborder="0" allowfullscreen></iframe>
+				</div>
+				<div class="caption">
+					<p>Animated music video illustrations.</p>
+				</div>
+			</div>
+			<div class="item" data-type="image">
+				<img src="work/joe-tilston-embers-album-02.jpg" width="100%" nopin = "nopin" />
+				<div class="caption">
+					<p>Behind the scenes album design and illustrated music video production.</p>
+				</div>
+			</div>
+		</div>
 		
 
+	
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Foot Locker (IMA)</h2>
@@ -253,44 +282,15 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Joe Tilston</h2>
-				<p>Album packaging concept, design and production alongside stop frame video illustrations for 'Liza and Henry' - the first single from Joe's debut album.</p>
-			</div>
-			<div class="item" data-type="image">
-				<img src="work/joe-tilston-embers-album-01.jpg" width="100%" nopin = "nopin" />
-				<div class="caption">
-					<p>Album concept and design.</p>
-				</div>
-			</div>
-			<div class="item" data-type="embed">
-				<div class="media-wrapper">
-					<iframe src="https://player.vimeo.com/video/202100716" frameborder="0" allowfullscreen></iframe>
-				</div>
-				<div class="caption">
-					<p>Animated music video illustrations.</p>
-				</div>
-			</div>
-			<div class="item" data-type="image">
-				<img src="work/joe-tilston-embers-album-02.jpg" width="100%" nopin = "nopin" />
-				<div class="caption">
-					<p>Behind the scenes album design and illustrated music video production.</p>
-				</div>
-			</div>
-		</div>
-		
-
-
-		<div class="project">
-			<div class="item" data-type="copy">
 				<h2>Awesome Exporter – Adobe InDesign App</h2>
 				<p>Development, UI design and branding for JavaScript based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files.
 				<?php /* View on Adobe Exchange */ ?></p>
 			</div>
 			<div class="item" data-type="image">
-				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
+				<img src="work/awesome-exporter-ui-01.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<div class="item" data-type="image">
-				<img src="work/awesome-exporter-ui-01.jpg" width="100%" nopin = "nopin" />
+				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
 			</div>
 		</div>
 
