@@ -75,9 +75,8 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Adidas (IMA)</h2>
-				<h3>P.O.D System</h3>
-				<p>Concepts, design and production guidelines for retail windows, activations and point of sale.</p>
+				<h2>Adidas – Originals & Performance (IMA)</h2>
+				<p>P.O.D System Global Launch. Concepts, design and production guidelines for retail windows, activations and point of sale.</p>
 			</div>
 			
 			<div class="item" data-type="image">
@@ -137,8 +136,7 @@
 			</div>
 
 			<div class="item" data-type="copy">
-				<h3><br /><br /><br />Nite Jogger</h3>
-				<p>Oculus Rift VR experience for instore product launch experience. My concepts and sketches were brought to life by the incredible motion design team at IMA.</p>
+				<p><br /><br />Nite Jogger Global Launch. An Oculus Rift VR experience for instore product launch zones. Concepts were brought to life by an incredible motion team at IMA.</p>
 			</div>
 			<div class="item" data-type="embed">
 				<div class="media-wrapper">
@@ -159,71 +157,7 @@
 			</div>
 
 			<div class="item" data-type="copy">
-				<h3><br /><br /><br />Athletics 'Find Focus'</h3>
-				<p>Creative guidelines and install for windows, point of sale and digital screens.</p>
-			</div>
-			<div class="row">
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="work/adidas-athletics-install-01.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="work/adidas-athletics-install-03.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-3">
-					<div class="item" data-type="image">
-						<img src="work/adidas-athletics-install-04.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-			</div>
-			<div class="item" data-type="embed">
-				<div class="media-wrapper">
-					<iframe src="https://player.vimeo.com/video/202110711" frameborder="0" allowfullscreen></iframe>
-				</div>
-				<div class="caption">
-					<p>Behind the scenes at Foot Locker, Harrods and WIT creative installs.</p>
-				</div>
-			</div>
-		</div>
-
-
-
-		<div class="project">
-			<div class="item" data-type="copy">
-				<h2>Joe Tilston</h2>
-				<p>Album packaging concept, design and production alongside stop frame video illustrations for 'Liza and Henry' - the first single from Joe's debut album.</p>
-			</div>
-			<div class="item" data-type="image">
-				<img src="work/joe-tilston-embers-album-01.jpg" width="100%" nopin = "nopin" />
-				<div class="caption">
-					<p>Album concept and design.</p>
-				</div>
-			</div>
-			<div class="item" data-type="embed">
-				<div class="media-wrapper">
-					<iframe src="https://player.vimeo.com/video/202100716" frameborder="0" allowfullscreen></iframe>
-				</div>
-				<div class="caption">
-					<p>Animated music video illustrations.</p>
-				</div>
-			</div>
-			<div class="item" data-type="image">
-				<img src="work/joe-tilston-embers-album-02.jpg" width="100%" nopin = "nopin" />
-				<div class="caption">
-					<p>Behind the scenes album design and illustrated music video production.</p>
-				</div>
-			</div>
-		</div>
-		
-
-	
-		<div class="project">
-			<div class="item" data-type="copy">
-				<h2>Foot Locker (IMA)</h2>
-				<p>Photography concepts, studio direction and retouching for Foot Locker's social channels.</p>
+				<p><br /><br />Foot Locker. Photography concepts, studio direction and retouching for Foot Locker's UK & EU social channels.</p>
 			</div>
 			<div class="row">
 				<div class="column-1-3">
@@ -276,55 +210,126 @@
 					</div>
 				</div>
 			</div>
-		</div>
 
+			<div class="item" data-type="copy">
+				<p><br /><br />Athletics 'Find Focus'. Creative guidelines for windows, point of sale and digital screens in Foot Locker and JD Sports flagship stores.</p>
+			</div>
+			<div class="row">
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="work/adidas-athletics-install-01.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="work/adidas-athletics-install-03.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+				<div class="column-1-3">
+					<div class="item" data-type="image">
+						<img src="work/adidas-athletics-install-04.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+			</div>
+			<div class="item" data-type="embed">
+				<div class="media-wrapper">
+					<iframe src="https://player.vimeo.com/video/202110711" frameborder="0" allowfullscreen></iframe>
+				</div>
+				<div class="caption">
+					<p>Behind the scenes at Foot Locker, Harrods and WIT creative installs.</p>
+				</div>
+			</div>
+		</div>
 
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Awesome Exporter – Adobe InDesign App</h2>
-				<p>Development, UI design and branding for JavaScript based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files.
-				<?php /* View on Adobe Exchange */ ?></p>
+				<h2>Joe Tilston</h2>
+				<p>Album packaging concept, design and production alongside stop frame video illustrations for 'Liza and Henry' - the first single from Joe's debut album.</p>
 			</div>
 			<div class="item" data-type="image">
-				<img src="work/awesome-exporter-ui-01.jpg" width="100%" nopin = "nopin" />
+				<img src="work/joe-tilston-embers-album-01.jpg" width="100%" nopin = "nopin" />
+				<div class="caption">
+					<p>Album concept and design.</p>
+				</div>
+			</div>
+			<div class="item" data-type="embed">
+				<div class="media-wrapper">
+					<iframe src="https://player.vimeo.com/video/202100716" frameborder="0" allowfullscreen></iframe>
+				</div>
+				<div class="caption">
+					<p>Animated music video illustrations.</p>
+				</div>
 			</div>
 			<div class="item" data-type="image">
-				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
+				<img src="work/joe-tilston-embers-album-02.jpg" width="100%" nopin = "nopin" />
+				<div class="caption">
+					<p>Behind the scenes album design and illustrated music video production.</p>
+				</div>
 			</div>
 		</div>
 
 
-
+		<?php /*
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Oliver Hunt</h2>
 				<p>Web design and brand identity for PGA professional golfer.</p>
 			</div>
-			<div class="item" data-type="image">
-				<img src="work/oliver-hunt-mobile-website-01.jpg" width="100%" nopin = "nopin" />
-			</div>
-			<?php /*
-			<div class="item" data-type="image">
-				<img src="work/oliver-hunt-desktop-website-01.jpg" width="100%" />
-			</div>
-			*/ ?>
 			<div class="row">
-				<div class="column-1-3">
+				<div class="column-1-2">
 					<div class="item" data-type="image">
 						<img src="work/oliver-hunt-logo-01.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
-				<div class="column-1-3">
+				<div class="column-1-2">
 					<div class="item" data-type="image">
 						<img src="work/oliver-hunt-logo-02.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
-				<div class="column-1-3">
+			</div>
+			<div class="row">
+				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="work/oliver-hunt-logo-03.jpg" width="100%" nopin = "nopin" />
+						<img src="work/oliver-hunt-tshirt.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/oliver-hunt-business-cards.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+			</div>
+			<div class="item" data-type="image">
+				<img src="work/oliver-hunt-mobile-website-01.jpg" width="100%" nopin = "nopin" />
+			</div>
+		</div>
+		*/ ?>
+
+
+
+		<div class="project">
+			<div class="item" data-type="copy">
+				<h2>Kenmuir Arms Hotel, Scotland</h2>
+				<p>Brand identity.</p>
+			</div>
+			<div class="row">
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/kenmuir-arms-logo-02.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/kenmuir-arms-logo-01.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+			</div>
+			<div class="item" data-type="image">
+				<img src="work/kenmuir-arms-business-cards.jpg" width="100%" nopin = "nopin" />
+			</div>
+			<div class="item" data-type="image">
+				<img src="work/kenmuir-arms-logo-03.jpg" width="100%" nopin = "nopin" />
 			</div>
 		</div>
 
@@ -360,30 +365,18 @@
 			*/ ?>
 		</div>
 
-
-
+		
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Kenmuir Arms Hotel, Scotland</h2>
-				<p>Brand identity.</p>
-			</div>
-			<div class="row">
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="work/kenmuir-arms-logo-02.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="work/kenmuir-arms-logo-01.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
+				<h2>Awesome Exporter – Adobe InDesign App</h2>
+				<p>Development, UI design and branding for JavaScript based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files.
+				<?php /* View on Adobe Exchange */ ?></p>
 			</div>
 			<div class="item" data-type="image">
-				<img src="work/kenmuir-arms-business-cards.jpg" width="100%" nopin = "nopin" />
+				<img src="work/awesome-exporter-ui-01.jpg" width="100%" nopin = "nopin" />
 			</div>
 			<div class="item" data-type="image">
-				<img src="work/kenmuir-arms-logo-03.jpg" width="100%" nopin = "nopin" />
+				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
 			</div>
 		</div>
 
@@ -392,7 +385,7 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Et cetera.</h2>
-				<p>Other editorial, layout and brand identity projects.</p>
+				<p>Other editorial, layout and branding projects.</p>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/et-cetera-annie-drury-fall-at-your-feet-album-art.jpg" width="100%" nopin = "nopin" />
@@ -403,7 +396,7 @@
 			<div class="item" data-type="image">
 				<img src="work/et-cetera-foxes-faux-album-cover-design.jpg" width="100%" nopin = "nopin" />
 				<div class="caption">
-					<p>Foxes Faux album design and artwork for 'Fox Tales' and 'Liars'.</p>
+					<p>Foxes Faux album creative.</p>
 				</div>
 			</div>
 			<div class="item" data-type="image">

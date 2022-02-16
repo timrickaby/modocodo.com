@@ -18,11 +18,11 @@
 			<li><p>Brand identity design</p></li>
 			<li><p>Product naming and branding</p></li>
 			<li><p>Retail window and POS design</p></li>
-			<li><p>Album packaging and artwork</p></li>
+			<li><p>UI design</p></li>
+			<li><p>Creative artworking</p></li>
 			<li><p>Short-form copywriting</p></li>
 			<li><p>Product photography direction</p></li>
-			<li><p>UI and UX design</p></li>
-			<li><p>WordPress setup and development</p></li>
+			<li><p>Web and app development</p></li>
 			<li><p>Web hosting</p></li>
 		</ul>
 		

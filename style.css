@@ -63,10 +63,9 @@ body {
 	font-family: 'Inter', sans-serif !important;
 	font-weight: 300;
 	font-size: 18px;
-	line-height: 23px;
+	line-height: 24px;
 	color: #000000;
 	word-wrap: break-word;
-	text-rendering: optimizeLegibility;
 }
 
 	a { position: relative; color: #000000; }
@@ -138,8 +137,8 @@ body {
 
 /* Page Layout */
 #page { padding: 80px 0 0 0; margin: 0 auto 0 auto; }
-#page.home { width: 1300px; }
-#page.about { width: 1300px; }
+#page.home { width: 1240px; }
+#page.about { width: 1240px; }
 
 #identity { margin-bottom: 80px; }
 #identity h1 { text-align: center !important; font-size: 1.6em; font-weight: 300; letter-spacing: 3px; }
@@ -179,13 +178,13 @@ body {
 
 
 /* Items */
-.project { display: block; margin-bottom: 180px; } 
+.project { display: block; margin-bottom: 200px; } 
 .project:last-child { margin-bottom: 0; } 
 
-.project .item { display: block; margin-bottom: 9px; } 
+.project .item { display: block; margin-bottom: 10px; } 
 
-.project .item .caption { margin-top: 4px; margin-bottom: 30px; width: 100%; padding: 0 100px 0 100px; }
-.project .item .caption p { font-size: 0.8em; line-height: 1.4em; text-align: center; display: block; color: #878787; }
+.project .item .caption { margin-top: 8px; margin-bottom: 30px; width: 100%; padding: 0 100px 0 100px; }
+.project .item .caption p { font-size: 0.8em; line-height: 1.4em; text-align: center; display: block; color: #000000; }
 
 .project .item[data-type="media"] .media-wrapper { width: 100%; max-width: 100%; margin-bottom: 20px;  border: none; }
 .project .item[data-type="media"] .media-wrapper video { position: relative; width: 100%; max-width: 800px; height: auto; border: none; }
@@ -194,9 +193,8 @@ body {
 .project .item[data-type="embed"] iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
 
 .project .item[data-type="copy"] { margin-bottom: 30px; text-align: center; padding: 0 140px 0 140px; }
-.project .item[data-type="copy"] h2 { font-size: 1.3em; font-weight: 300; padding-bottom: 14px; }
-.project .item[data-type="copy"] h3 { font-size: 1em; font-weight: 300; padding-bottom: 10px; }
-.project .item[data-type="copy"] p { color: #878787; }
+.project .item[data-type="copy"] h2 { font-size: 1em; font-weight: 500; padding-bottom: 20px; }
+.project .item[data-type="copy"] p { color: #000000; }
 
 
 

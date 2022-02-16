@@ -1,6 +1,6 @@
 	<div id="footer" class="row">
 		<span class="date">	
-			© 2021<br />
+			© 2022<br />
 			<a href="mailto:hello@modocodo.studio" class="faded">hello@modocodo.studio</a>
 			<br /><br />
 		</span>
