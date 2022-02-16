@@ -450,6 +450,7 @@
 						</div>
 					</div>
 				</div>
+				<?php /*
 				<div class="column-1-2">
 					<div class="item" data-type="image">
 						<img src="work/et-cetera-atticus-logomark.jpg" width="100%" nopin = "nopin" />
@@ -458,6 +459,7 @@
 						</div>
 					</div>
 				</div>
+				*/ ?>
 			</div>
 			<?php /*
 			<div class="row">
