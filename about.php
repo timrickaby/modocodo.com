@@ -30,11 +30,15 @@
 
 		<p class="light">Available for remote bookings.</p>
 
-		<p><a href="mailto:hello@modocodo.studio" target="_blank">Get in touch</a></p>
+		<p><a href="mailto:hello@modocodo.studio" target="_blank">hello@modocodo.studio</a></p>
 
-		<p><a href="https://www.linkedin.com/in/timrickaby" target="_blank">Connect on LinkedIn</a></p>
+		<br /><br />
 
-		<p><a href="https://instagram.com/modocodo.studio" target="_blank">Follow on Instagram</a></p>
+		<p><a href="https://www.linkedin.com/in/timrickaby" target="_blank">LinkedIn</a></p>
+
+		<p><a href="https://github.com/timrickaby" target="_blank">GitHub</a></p>
+
+		<p><a href="https://instagram.com/modocodo.studio" target="_blank">Instagram</a></p>
 	</div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php'); ?>

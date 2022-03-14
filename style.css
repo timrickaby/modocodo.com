@@ -136,13 +136,19 @@ body {
 
 
 /* Page Layout */
-#page { padding: 80px 0 0 0; margin: 0 auto 0 auto; }
+#page { padding: 100px 0 0 0; margin: 0 auto 0 auto; }
 #page.home { width: 1240px; }
 #page.about { width: 1240px; }
 
-#identity { margin-bottom: 80px; }
-#identity h1 { text-align: center !important; font-size: 1.6em; font-weight: 300; letter-spacing: 3px; }
+#identity { margin-bottom: 100px; }
 #identity img { display: block; margin: auto; width: 180px; height: 180px; }
+#identity h1 { 
+	text-align: center !important;
+	font-size: 2.8em;
+	font-family: 'filson-soft', sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
 
 #navigation { margin-bottom: 100px; }
 #navigation ul { list-style-type: none; text-align: center !important; }
@@ -171,17 +177,18 @@ body {
 		box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
 	}
 
-#footer { padding: 100px 0 40px 0; text-align: center; color: #878787; }
-#footer a { color: #878787; }
-#footer span.date { color: #878787;  font-size: 0.8em; line-height: 1.4em; }
-#footer span.registration { color: #878787; font-size: 0.6em; line-height: 1.6em; }
+#footer { padding: 100px 0 40px 0; text-align: center; color: #000; }
+#footer a { color: #000; }
+#footer span.date { color: #000;  font-size: 0.8em; line-height: 1.4em; }
+#footer span.registration { color: #000; font-size: 0.6em; line-height: 1.6em; }
+#footer img { display: block; margin: auto; width: 32px; height: 32px; margin-top: 26px; }
 
 
 /* Items */
 .project { display: block; margin-bottom: 200px; } 
 .project:last-child { margin-bottom: 0; } 
 
-.project .item { display: block; margin-bottom: 10px; } 
+.project .item { display: block; margin-bottom: 8px; } 
 
 .project .item .caption { margin-top: 8px; margin-bottom: 30px; width: 100%; padding: 0 100px 0 100px; }
 .project .item .caption p { font-size: 0.8em; line-height: 1.4em; text-align: center; display: block; color: #000000; }
@@ -276,6 +283,10 @@ body {
 
 	#identity { margin-bottom: 50px }
 	#identity img { width: 140px; height: 140px; }
+	#identity h1 { 
+		text-align: center !important;
+		font-size: 2.4em;
+	}
 
 	#navigation { margin-bottom: 40px; }
 	#navigation ul li { margin: 0 15px 0 15px; }

@@ -8,6 +8,7 @@
 			Modocodo Ltd. Registered Company: 13703897.<br />
 			<?php /*Work selected is from working at and with the following agencies, companies people and clients: IMA.*/ ?>
 		</span>
+		<a href="/"><img src="../assets/modocodo-logomark.jpg"></a>
 	</div>
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->

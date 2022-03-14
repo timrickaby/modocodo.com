@@ -24,7 +24,8 @@
 		<link rel="canonical" href="https://modocodo.studio/" />		
 		<link rel="preconnect" href="https://fonts.googleapis.com"> 
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap" rel="stylesheet">	
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap">	
+		<link rel="stylesheet" href="https://use.typekit.net/dfk0buz.css">
 		<link rel='dns-prefetch' href='//s.w.org' />
 		<link rel='stylesheet' id='style-css'  href='/style.css' type='text/css' media='all' />
 		<link rel="start" href="http://modocodo.test">
@@ -43,8 +44,8 @@
 	<body>
 		<div id="page" class="row <?php echo $location; ?>">
 			<div id="identity" class="row">
-				<?php /* <h1>Modocodo</h1> */ ?>
-				<a href="/"><img src="../assets/modocodo-logomark-bold.jpg"></a>
+				<h1>Modocodo</h1>
+				<?php /* <a href="/"><img src="../assets/modocodo-logomark-bold.jpg"></a>*/ ?>
 			</div>
 
 			<div id="navigation" class="row">

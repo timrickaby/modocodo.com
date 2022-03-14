@@ -270,7 +270,7 @@
 		</div>
 
 
-		<?php /*
+
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Oliver Hunt</h2>
@@ -279,24 +279,12 @@
 			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
-						<img src="work/oliver-hunt-logo-01.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
 						<img src="work/oliver-hunt-logo-02.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
-			</div>
-			<div class="row">
 				<div class="column-1-2">
 					<div class="item" data-type="image">
 						<img src="work/oliver-hunt-tshirt.jpg" width="100%" nopin = "nopin" />
-					</div>
-				</div>
-				<div class="column-1-2">
-					<div class="item" data-type="image">
-						<img src="work/oliver-hunt-business-cards.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 			</div>
@@ -304,7 +292,6 @@
 				<img src="work/oliver-hunt-mobile-website-01.jpg" width="100%" nopin = "nopin" />
 			</div>
 		</div>
-		*/ ?>
 
 
 
@@ -450,7 +437,6 @@
 						</div>
 					</div>
 				</div>
-				<?php /*
 				<div class="column-1-2">
 					<div class="item" data-type="image">
 						<img src="work/et-cetera-atticus-logomark.jpg" width="100%" nopin = "nopin" />
@@ -459,7 +445,6 @@
 						</div>
 					</div>
 				</div>
-				*/ ?>
 			</div>
 			<?php /*
 			<div class="row">
