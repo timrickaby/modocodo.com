@@ -44,7 +44,7 @@
 	<body>
 		<div id="page" class="row <?php echo $location; ?>">
 			<div id="identity" class="row">
-				<h1>Modocodo</h1>-
+				<h1>Modocodo</h1>
 			</div>
 
 			<div id="navigation" class="row">
