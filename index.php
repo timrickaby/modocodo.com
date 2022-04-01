@@ -270,6 +270,24 @@
 		</div>
 
 
+		<div class="project">
+			<div class="item" data-type="copy">
+				<h2>Other EP/LP Design</h2>
+			</div>
+			<div class="item" data-type="image">
+				<img src="work/et-cetera-annie-drury-fall-at-your-feet-album-art.jpg" width="100%" nopin = "nopin" />
+				<div class="caption">
+					<p>Annie Drury Fall At Your Feet Album Art</p>
+				</div>
+			</div>
+			<div class="item" data-type="image">
+				<img src="work/et-cetera-foxes-faux-album-cover-design.jpg" width="100%" nopin = "nopin" />
+				<div class="caption">
+					<p>Foxes Faux album creative.</p>
+				</div>
+			</div>
+		</div>
+
 
 		<div class="project">
 			<div class="item" data-type="copy">
@@ -280,6 +298,18 @@
 				<div class="column-1-2">
 					<div class="item" data-type="image">
 						<img src="work/oliver-hunt-logo-02.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/oliver-hunt-logo-01.jpg" width="100%" nopin = "nopin" />
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="column-1-2">
+					<div class="item" data-type="image">
+						<img src="work/oliver-hunt-business-card.jpg" width="100%" nopin = "nopin" />
 					</div>
 				</div>
 				<div class="column-1-2">
@@ -321,7 +351,7 @@
 		</div>
 
 
-
+		<?php /*
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Haworth Festival</h2>
@@ -345,13 +375,13 @@
 			<div class="item" data-type="image">
 				<img src="work/haworth-festival-collateral.jpg" width="100%" nopin = "nopin" />
 			</div>
-			<?php /*
+
 			<div class="item" data-type="image">
 				<img src="work/haworth-festival-brochure.jpg" width="100%" nopin = "nopin" />
 			</div>
-			*/ ?>
 		</div>
-
+		*/ ?>
+		
 		
 		<div class="project">
 			<div class="item" data-type="copy">
@@ -373,18 +403,6 @@
 			<div class="item" data-type="copy">
 				<h2>Et cetera.</h2>
 				<p>Other editorial, layout and branding projects.</p>
-			</div>
-			<div class="item" data-type="image">
-				<img src="work/et-cetera-annie-drury-fall-at-your-feet-album-art.jpg" width="100%" nopin = "nopin" />
-				<div class="caption">
-					<p>Annie Drury Fall At Your Feet Album Art</p>
-				</div>
-			</div>
-			<div class="item" data-type="image">
-				<img src="work/et-cetera-foxes-faux-album-cover-design.jpg" width="100%" nopin = "nopin" />
-				<div class="caption">
-					<p>Foxes Faux album creative.</p>
-				</div>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" nopin = "nopin" />

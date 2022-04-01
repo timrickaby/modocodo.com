@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 	<html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>Modocodo - Creative & Code</title>	
+		<title>Modocodo – Creative & Code</title>	
 		
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
 		<meta name="robots" content="noarchive"> 
@@ -44,8 +44,7 @@
 	<body>
 		<div id="page" class="row <?php echo $location; ?>">
 			<div id="identity" class="row">
-				<h1>Modocodo</h1>
-				<?php /* <a href="/"><img src="../assets/modocodo-logomark-bold.jpg"></a>*/ ?>
+				<h1>Modocodo</h1>-
 			</div>
 
 			<div id="navigation" class="row">

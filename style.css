@@ -1,9 +1,9 @@
 /*
-Theme Name: 'modocodo'
+Theme Name: 'Modocodo'
 Description: Minimalist studio portfolio.
 Author: Tim Rickaby
 Auther URI: https://timrickaby.com
-Version: 2017
+Version: 2022
 */
 
 /* Normalisers */
@@ -144,7 +144,7 @@ body {
 #identity img { display: block; margin: auto; width: 180px; height: 180px; }
 #identity h1 { 
 	text-align: center !important;
-	font-size: 2.8em;
+	font-size: 3.0em;
 	font-family: 'filson-soft', sans-serif;
 	font-weight: 700;
 	font-style: normal;
