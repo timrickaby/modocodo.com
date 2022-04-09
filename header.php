@@ -29,7 +29,7 @@
 		<link rel='dns-prefetch' href='//s.w.org' />
 		<link rel='stylesheet' id='style-css'  href='/style.css' type='text/css' media='all' />
 		<link rel="start" href="http://modocodo.test">
-		<link rel='shortlink' href='https://modocodo.studio/' />
+		<link rel='shortlink' href="https://modocodo.studio/" />
 		<link rel="shortcut icon" type="image/png" href="https://modocodo.studio/assets/favicon.png">
 
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-1D561QZJFJ"></script>
@@ -44,7 +44,7 @@
 	<body>
 		<div id="page" class="row <?php echo $location; ?>">
 			<div id="identity" class="row">
-				<h1>Modocodo</h1>
+				<h1><a href="https://modocodo.studio/">Modocodo</a></h1>
 			</div>
 
 			<div id="navigation" class="row">
