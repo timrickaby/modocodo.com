@@ -239,6 +239,13 @@
 					<p>Behind the scenes at Foot Locker, Harrods and WIT creative installs.</p>
 				</div>
 			</div>
+
+			<div class="item" data-type="copy">
+				<p><br /><br />Sky Playoff Final Wembley Matchday Programme</p>
+			</div>
+			<div class="item" data-type="image">
+				<img src="work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" nopin = "nopin" />
+			</div>
 		</div>
 
 
@@ -390,10 +397,10 @@
 				<?php /* View on Adobe Exchange */ ?></p>
 			</div>
 			<div class="item" data-type="image">
-				<img src="work/awesome-exporter-ui-01.jpg" width="100%" nopin = "nopin" />
+				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" /><br /><br />
 			</div>
 			<div class="item" data-type="image">
-				<img src="work/awesome-exporter-logo.jpg" width="100%" nopin = "nopin" />
+				<img src="work/awesome-exporter-ui-01.jpg" width="100%" nopin = "nopin" />
 			</div>
 		</div>
 
@@ -402,13 +409,6 @@
 		<div class="project">
 			<div class="item" data-type="copy">
 				<h2>Et cetera.</h2>
-				<p>Other editorial, layout and branding projects.</p>
-			</div>
-			<div class="item" data-type="image">
-				<img src="work/et-cetera-sky-bet-matchday-programme.jpg" width="100%" nopin = "nopin" />
-				<div class="caption">
-					<p>Sky Playoff Final Wembley Matchday Programme Design</p>
-				</div>
 			</div>
 			<div class="row">
 				<div class="column-1-2">

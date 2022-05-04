@@ -7,7 +7,7 @@
 		<span class="registration">
 			Modocodo Ltd. Registered Company: 13703897.<br />
 		</span>
-		<a href="/"><img src="../assets/modocodo-logomark.jpg"></a>
+		<a href="/"><img src="modocodo-logomark.jpg"></a>
 	</div>
 
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6663154-2"></script>
