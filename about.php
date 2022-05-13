@@ -22,7 +22,7 @@
 			<li><p>Creative artworking</p></li>
 			<li><p>Short-form copywriting</p></li>
 			<li><p>Product photography direction</p></li>
-			<li><p>Web and app development</p></li>
+			<li><p>Web and extension development</p></li>
 			<li><p>Web hosting</p></li>
 		</ul>
 		
