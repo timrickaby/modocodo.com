@@ -5,7 +5,7 @@
 				
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Healey Amplification</h2>
+				<h3>Healey Amplification</h3>
 				<p>Interactive brand identity where logoforms are brought to life using audio data from the company's valve amplifiers,
 				creating immersive and unique brand assets.</p>
 			</div>
@@ -75,7 +75,7 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Adidas – Originals & Performance (IMA)</h2>
+				<h3>Adidas – Originals & Performance (IMA)</h3>
 				<p>P.O.D System Global Launch. Concepts, design and production guidelines for retail windows, activations and point of sale.</p>
 			</div>
 			
@@ -251,7 +251,7 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Joe Tilston</h2>
+				<h3>Joe Tilston</h3>
 				<p>Album packaging concept, design and production alongside stop frame video illustrations for 'Liza and Henry' - the first single from Joe's debut album.</p>
 			</div>
 			<div class="item" data-type="image">
@@ -279,7 +279,7 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Other EP/LP Design</h2>
+				<h3>Other EP/LP Design</h3>
 			</div>
 			<div class="item" data-type="image">
 				<img src="work/et-cetera-annie-drury-fall-at-your-feet-album-art.jpg" width="100%" nopin = "nopin" />
@@ -298,7 +298,7 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Oliver Hunt</h2>
+				<h3>Oliver Hunt</h3>
 				<p>Web design and brand identity for PGA professional golfer.</p>
 			</div>
 			<div class="row">
@@ -334,7 +334,7 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Kenmuir Arms Hotel, Scotland</h2>
+				<h3>Kenmuir Arms Hotel, Scotland</h3>
 				<p>Brand identity.</p>
 			</div>
 			<div class="row">
@@ -361,7 +361,7 @@
 		<?php /*
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Haworth Festival</h2>
+				<h3>Haworth Festival</h3>
 				<p>Brand identity, print design and website. Inspired by the well-worn cobbles and vibrant village culture.</p>
 			</div>
 			<div class="row">
@@ -392,7 +392,7 @@
 		
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Awesome Exporter – Adobe InDesign App</h2>
+				<h3>Awesome Exporter – Adobe InDesign App</h3>
 				<p>Development, UI design and branding for JavaScript based app to simplify professional content creation workflows. Used by studios and publishers to quickly produce artwork, asset libraries and multi-lingual files.
 				<?php /* View on Adobe Exchange */ ?></p>
 			</div>
@@ -408,7 +408,7 @@
 
 		<div class="project">
 			<div class="item" data-type="copy">
-				<h2>Et cetera.</h2>
+				<h3>Et cetera.</h3>
 			</div>
 			<div class="row">
 				<div class="column-1-2">
