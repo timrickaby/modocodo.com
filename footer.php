@@ -2,7 +2,7 @@
 		<span class="date">	
 			© 2022<br />
 			<a href="mailto:hello@modocodo.studio" class="faded">hello@modocodo.studio</a>
-			<br /><br />
+			<br />
 		</span>
 		<span class="registration">
 			Modocodo Ltd. Registered Company: 13703897.<br />
