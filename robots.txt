@@ -1,5 +1,11 @@
 User-agent: Googlebot-Image
 Disallow: /
+Disallow: /hosted/
+Disallow: /hosted
+Disallow: hosted
+Disallow: /work/
+Disallow: /work
+Disallow: work
 
 User-agent: Googlebot
 Disallow: /*.gif$
@@ -12,3 +18,9 @@ Disallow: /*.gif$
 Disallow: /*.jpg$
 Disallow: /*.jpeg$
 Disallow: /*.png$
+Disallow: /hosted/
+Disallow: /hosted
+Disallow: hosted
+Disallow: /work/
+Disallow: /work
+Disallow: work

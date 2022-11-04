@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<title>Modocodo – Creative & Code</title>	
 		
@@ -16,21 +16,22 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="Modocodo" />
 		<meta property="og:description" content="A design and development studio. Specialising in branding, websites and ideas." />
-		<meta property="og:url" content="https://modocodo.studio" />
+		<meta property="og:url" content="https://modocodo.com" />
 		<meta property="og:site_name" content="Modocodo" />
 		<meta property="article:modified_time" content="2021-08-05T17:56:04+00:00" />
 		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
 
-		<link rel="canonical" href="https://modocodo.studio/" />		
+		<link rel="canonical" href="https://modocodo.com/" />		
 		<link rel="preconnect" href="https://fonts.googleapis.com"> 
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap">	
 		<link rel="stylesheet" href="https://use.typekit.net/dfk0buz.css">
 		<link rel='dns-prefetch' href='//s.w.org' />
 		<link rel='stylesheet' id='style-css'  href='/style.css' type='text/css' media='all' />
-		<link rel="start" href="http://modocodo.test">
-		<link rel='shortlink' href="https://modocodo.studio/" />
-		<link rel="shortcut icon" type="image/png" href="https://modocodo.studio/assets/favicon.png">
+		<link rel="start" href="https://modocodo.com">
+		<link rel='shortlink' href="https://modocodo.com/" />
+		<link rel="shortcut icon" type="image/png" href="https://modocodo.com/assets/favicon.png">
 
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-1D561QZJFJ"></script>
 		<script>
@@ -42,17 +43,13 @@
 	</head>
 	
 	<body>
-		<div id="page" class="row <?php echo $location; ?>">
-			<div id="identity" class="row">
-				<h1><a href="https://modocodo.studio/" class="logo">Modocodo</a></h1>
-			</div>
-
-			<div id="navigation" class="row">
-				<nav>
-					<ul>
-						<li><a class="<?php echo ($location == 'home' ? 'current' : 'faded'); ?>" href="/" alt="Work">Recent Work</a></li>
-						<li><a class="<?php echo ($location == 'about' ? 'current' : 'faded'); ?>" href="about/" alt="About">About</a></li>
-						<li><a class="faded" href="mailto:hello@modocodo.studio" alt="Contact">Get In Touch</a></li>
-					</ul>
-				</nav>
-			</div>
+		<header>
+			<h1><a href="https://modocodo.com/" class="logo">Modocodo</a></h1>
+			<nav>
+				<ul>
+					<li><a class="<?php echo ($location == 'home' ? 'current' : ''); ?>" href="/">Recent Work</a></li>
+					<li><a class="<?php echo ($location == 'about' ? 'current' : ''); ?>" href="about/">About</a></li>
+					<li><a href="mailto:hello@modocodo.com">Get In Touch</a></li>
+				</ul>
+			</nav>
+		</header>
