@@ -76,7 +76,7 @@ ul li {
 	margin-bottom: 12px;
 }
 
-body { zoom: 1; width: 900px; position: relative; text-align: center; padding: 80px 0 0 0; margin: 0 auto 0 auto; }
+body { zoom: 1; width: 1000px; position: relative; text-align: center; padding: 80px 0 0 0; margin: 0 auto 0 auto; }
 
 body header h1 { 
 	text-align: center !important;
@@ -115,7 +115,7 @@ body main.home h2 { font-weight: 400; font-size: 48px; line-height: 62px; paddin
 body main.about article.intro { border-bottom: 1px solid #e6e6e6; padding-bottom: 80px; margin-bottom: 100px; }
 body main.about article.links { margin-bottom: 100px; }
 body main.about article.services { margin-bottom: 20px; }
-body main.about h2 { font-weight: 500; font-size: 40px; line-height: 56px; margin: 0 0 50px 0; }
+body main.about h2 { font-weight: 400; font-size: 36px; line-height: 50px; margin: 0 0 40px 0; }
 body main.about h3 { font-weight: 500; font-size: 32px; line-height: 24px; margin: 0 0 30px 0; }
 body main.about p { font-size: 34px; line-height: 48px; }
 body main.about a { border-bottom: 1px solid #333; padding-bottom: 1px; }
@@ -126,7 +126,7 @@ body main article.collection { margin-bottom: 160px; border-top: 1px solid #e6e6
 body main article.collection:last-child { margin-bottom: 0; } 
 
 body main article.project header { margin-bottom: 26px; text-align: center; padding: 40px 140px 0 140px; }
-body main article.project header h3 { font-size: 1em; font-weight: 500; padding-bottom: 8px; }
+body main article.project header h3 { font-size: 1.3em; font-weight: 500; padding-bottom: 16px; }
 body main article.project header p { color: #333333; }
 
 body main article.project section.row figure[data-type='image'] { width: 100%; max-width: 100%; border: none; padding: 0; margin: 0; }

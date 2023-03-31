@@ -4,10 +4,9 @@
 	<main class="about">
 		<article class="intro">	
 			<section>	
-				<p>Modocodo delivers unique creative, meaningful strategy and effective results for brands 
-				and people, across global and domestic markets.</p>
-				<p>Partnering with businesses, startups, agencies, charities and musicians 
-				to build standout brands, beautiful products and exciting ideas.</p>
+				<h2>Modocodo delivers unique creative, meaningful strategy and effective results for brands 
+				and people, across global and domestic markets. Partnering with businesses, startups, agencies, charities and musicians 
+				to build standout brands, beautiful products and exciting ideas.</h2>
 			</section>
 		</article>
 		
